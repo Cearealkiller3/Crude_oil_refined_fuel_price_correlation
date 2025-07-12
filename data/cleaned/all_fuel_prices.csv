@@ -1,0 +1,2721 @@
+Date,Price,Fuel Type
+1986-02-15,15.46,Crude Oil
+1986-03-15,12.61,Crude Oil
+1986-04-15,12.84,Crude Oil
+1986-05-15,15.38,Crude Oil
+1986-06-15,13.43,Crude Oil
+1986-07-15,11.59,Crude Oil
+1986-08-15,15.1,Crude Oil
+1986-09-15,14.87,Crude Oil
+1986-10-15,14.9,Crude Oil
+1986-11-15,15.22,Crude Oil
+1986-12-15,16.11,Crude Oil
+1987-01-15,18.65,Crude Oil
+1987-02-15,17.75,Crude Oil
+1987-03-15,18.3,Crude Oil
+1987-04-15,18.68,Crude Oil
+1987-05-15,19.44,Crude Oil
+1987-06-15,20.07,Crude Oil
+1987-07-15,21.34,Crude Oil
+1987-08-15,20.31,Crude Oil
+1987-09-15,19.53,Crude Oil
+1987-10-15,19.86,Crude Oil
+1987-11-15,18.85,Crude Oil
+1987-12-15,17.28,Crude Oil
+1988-01-15,17.13,Crude Oil
+1988-02-15,16.8,Crude Oil
+1988-03-15,16.2,Crude Oil
+1988-04-15,17.86,Crude Oil
+1988-05-15,17.42,Crude Oil
+1988-06-15,16.53,Crude Oil
+1988-07-15,15.5,Crude Oil
+1988-08-15,15.52,Crude Oil
+1988-09-15,14.54,Crude Oil
+1988-10-15,13.77,Crude Oil
+1988-11-15,14.14,Crude Oil
+1988-12-15,16.38,Crude Oil
+1989-01-15,18.02,Crude Oil
+1989-02-15,17.94,Crude Oil
+1989-03-15,19.48,Crude Oil
+1989-04-15,21.07,Crude Oil
+1989-05-15,20.12,Crude Oil
+1989-06-15,20.05,Crude Oil
+1989-07-15,19.78,Crude Oil
+1989-08-15,18.58,Crude Oil
+1989-09-15,19.59,Crude Oil
+1989-10-15,20.1,Crude Oil
+1989-11-15,19.86,Crude Oil
+1989-12-15,21.1,Crude Oil
+1990-01-15,22.86,Crude Oil
+1990-02-15,22.11,Crude Oil
+1990-03-15,20.39,Crude Oil
+1990-04-15,18.43,Crude Oil
+1990-05-15,18.2,Crude Oil
+1990-06-15,16.7,Crude Oil
+1990-07-15,18.45,Crude Oil
+1990-08-15,27.31,Crude Oil
+1990-09-15,33.51,Crude Oil
+1990-10-15,36.04,Crude Oil
+1990-11-15,32.33,Crude Oil
+1990-12-15,27.28,Crude Oil
+1991-01-15,25.23,Crude Oil
+1991-02-15,20.48,Crude Oil
+1991-03-15,19.9,Crude Oil
+1991-04-15,20.83,Crude Oil
+1991-05-15,21.23,Crude Oil
+1991-06-15,20.19,Crude Oil
+1991-07-15,21.4,Crude Oil
+1991-08-15,21.69,Crude Oil
+1991-09-15,21.89,Crude Oil
+1991-10-15,23.23,Crude Oil
+1991-11-15,22.46,Crude Oil
+1991-12-15,19.5,Crude Oil
+1992-01-15,18.79,Crude Oil
+1992-02-15,19.01,Crude Oil
+1992-03-15,18.92,Crude Oil
+1992-04-15,20.23,Crude Oil
+1992-05-15,20.98,Crude Oil
+1992-06-15,22.39,Crude Oil
+1992-07-15,21.78,Crude Oil
+1992-08-15,21.34,Crude Oil
+1992-09-15,21.88,Crude Oil
+1992-10-15,21.69,Crude Oil
+1992-11-15,20.34,Crude Oil
+1992-12-15,19.41,Crude Oil
+1993-01-15,19.03,Crude Oil
+1993-02-15,20.09,Crude Oil
+1993-03-15,20.32,Crude Oil
+1993-04-15,20.25,Crude Oil
+1993-05-15,19.95,Crude Oil
+1993-06-15,19.09,Crude Oil
+1993-07-15,17.89,Crude Oil
+1993-08-15,18.01,Crude Oil
+1993-09-15,17.5,Crude Oil
+1993-10-15,18.15,Crude Oil
+1993-11-15,16.61,Crude Oil
+1993-12-15,14.52,Crude Oil
+1994-01-15,15.03,Crude Oil
+1994-02-15,14.78,Crude Oil
+1994-03-15,14.68,Crude Oil
+1994-04-15,16.42,Crude Oil
+1994-05-15,17.89,Crude Oil
+1994-06-15,19.06,Crude Oil
+1994-07-15,19.66,Crude Oil
+1994-08-15,18.38,Crude Oil
+1994-09-15,17.45,Crude Oil
+1994-10-15,17.72,Crude Oil
+1994-11-15,18.07,Crude Oil
+1994-12-15,17.16,Crude Oil
+1995-01-15,18.04,Crude Oil
+1995-02-15,18.57,Crude Oil
+1995-03-15,18.54,Crude Oil
+1995-04-15,19.9,Crude Oil
+1995-05-15,19.74,Crude Oil
+1995-06-15,18.45,Crude Oil
+1995-07-15,17.33,Crude Oil
+1995-08-15,18.02,Crude Oil
+1995-09-15,18.23,Crude Oil
+1995-10-15,17.43,Crude Oil
+1995-11-15,17.99,Crude Oil
+1995-12-15,19.03,Crude Oil
+1996-01-15,18.86,Crude Oil
+1996-02-15,19.09,Crude Oil
+1996-03-15,21.33,Crude Oil
+1996-04-15,23.5,Crude Oil
+1996-05-15,21.17,Crude Oil
+1996-06-15,20.42,Crude Oil
+1996-07-15,21.3,Crude Oil
+1996-08-15,21.9,Crude Oil
+1996-09-15,23.97,Crude Oil
+1996-10-15,24.88,Crude Oil
+1996-11-15,23.71,Crude Oil
+1996-12-15,25.23,Crude Oil
+1997-01-15,25.13,Crude Oil
+1997-02-15,22.18,Crude Oil
+1997-03-15,20.97,Crude Oil
+1997-04-15,19.7,Crude Oil
+1997-05-15,20.82,Crude Oil
+1997-06-15,19.26,Crude Oil
+1997-07-15,19.66,Crude Oil
+1997-08-15,19.95,Crude Oil
+1997-09-15,19.8,Crude Oil
+1997-10-15,21.33,Crude Oil
+1997-11-15,20.19,Crude Oil
+1997-12-15,18.33,Crude Oil
+1998-01-15,16.72,Crude Oil
+1998-02-15,16.06,Crude Oil
+1998-03-15,15.12,Crude Oil
+1998-04-15,15.35,Crude Oil
+1998-05-15,14.91,Crude Oil
+1998-06-15,13.72,Crude Oil
+1998-07-15,14.17,Crude Oil
+1998-08-15,13.47,Crude Oil
+1998-09-15,15.03,Crude Oil
+1998-10-15,14.46,Crude Oil
+1998-11-15,13.0,Crude Oil
+1998-12-15,11.35,Crude Oil
+1999-01-15,12.52,Crude Oil
+1999-02-15,12.01,Crude Oil
+1999-03-15,14.68,Crude Oil
+1999-04-15,17.31,Crude Oil
+1999-05-15,17.72,Crude Oil
+1999-06-15,17.92,Crude Oil
+1999-07-15,20.1,Crude Oil
+1999-08-15,21.28,Crude Oil
+1999-09-15,23.8,Crude Oil
+1999-10-15,22.69,Crude Oil
+1999-11-15,25.0,Crude Oil
+1999-12-15,26.1,Crude Oil
+2000-01-15,27.26,Crude Oil
+2000-02-15,29.37,Crude Oil
+2000-03-15,29.84,Crude Oil
+2000-04-15,25.72,Crude Oil
+2000-05-15,28.79,Crude Oil
+2000-06-15,31.82,Crude Oil
+2000-07-15,29.7,Crude Oil
+2000-08-15,31.26,Crude Oil
+2000-09-15,33.88,Crude Oil
+2000-10-15,33.11,Crude Oil
+2000-11-15,34.42,Crude Oil
+2000-12-15,28.44,Crude Oil
+2001-01-15,29.59,Crude Oil
+2001-02-15,29.61,Crude Oil
+2001-03-15,27.25,Crude Oil
+2001-04-15,27.49,Crude Oil
+2001-05-15,28.63,Crude Oil
+2001-06-15,27.6,Crude Oil
+2001-07-15,26.43,Crude Oil
+2001-08-15,27.37,Crude Oil
+2001-09-15,26.2,Crude Oil
+2001-10-15,22.17,Crude Oil
+2001-11-15,19.64,Crude Oil
+2001-12-15,19.39,Crude Oil
+2002-01-15,19.72,Crude Oil
+2002-02-15,20.72,Crude Oil
+2002-03-15,24.53,Crude Oil
+2002-04-15,26.18,Crude Oil
+2002-05-15,27.04,Crude Oil
+2002-06-15,25.52,Crude Oil
+2002-07-15,26.97,Crude Oil
+2002-08-15,28.39,Crude Oil
+2002-09-15,29.66,Crude Oil
+2002-10-15,28.84,Crude Oil
+2002-11-15,26.35,Crude Oil
+2002-12-15,29.46,Crude Oil
+2003-01-15,32.95,Crude Oil
+2003-02-15,35.83,Crude Oil
+2003-03-15,33.51,Crude Oil
+2003-04-15,28.17,Crude Oil
+2003-05-15,28.11,Crude Oil
+2003-06-15,30.66,Crude Oil
+2003-07-15,30.76,Crude Oil
+2003-08-15,31.57,Crude Oil
+2003-09-15,28.31,Crude Oil
+2003-10-15,30.34,Crude Oil
+2003-11-15,31.11,Crude Oil
+2003-12-15,32.13,Crude Oil
+2004-01-15,34.31,Crude Oil
+2004-02-15,34.69,Crude Oil
+2004-03-15,36.74,Crude Oil
+2004-04-15,36.75,Crude Oil
+2004-05-15,40.28,Crude Oil
+2004-06-15,38.03,Crude Oil
+2004-07-15,40.78,Crude Oil
+2004-08-15,44.9,Crude Oil
+2004-09-15,45.94,Crude Oil
+2004-10-15,53.28,Crude Oil
+2004-11-15,48.47,Crude Oil
+2004-12-15,43.15,Crude Oil
+2005-01-15,46.84,Crude Oil
+2005-02-15,48.15,Crude Oil
+2005-03-15,54.19,Crude Oil
+2005-04-15,52.98,Crude Oil
+2005-05-15,49.83,Crude Oil
+2005-06-15,56.35,Crude Oil
+2005-07-15,59.0,Crude Oil
+2005-08-15,64.99,Crude Oil
+2005-09-15,65.59,Crude Oil
+2005-10-15,62.26,Crude Oil
+2005-11-15,58.32,Crude Oil
+2005-12-15,59.41,Crude Oil
+2006-01-15,65.49,Crude Oil
+2006-02-15,61.63,Crude Oil
+2006-03-15,62.69,Crude Oil
+2006-04-15,69.44,Crude Oil
+2006-05-15,70.84,Crude Oil
+2006-06-15,70.95,Crude Oil
+2006-07-15,74.41,Crude Oil
+2006-08-15,73.04,Crude Oil
+2006-09-15,63.8,Crude Oil
+2006-10-15,58.89,Crude Oil
+2006-11-15,59.08,Crude Oil
+2006-12-15,61.96,Crude Oil
+2007-01-15,54.51,Crude Oil
+2007-02-15,59.28,Crude Oil
+2007-03-15,60.44,Crude Oil
+2007-04-15,63.98,Crude Oil
+2007-05-15,63.46,Crude Oil
+2007-06-15,67.49,Crude Oil
+2007-07-15,74.12,Crude Oil
+2007-08-15,72.36,Crude Oil
+2007-09-15,79.92,Crude Oil
+2007-10-15,85.8,Crude Oil
+2007-11-15,94.77,Crude Oil
+2007-12-15,91.69,Crude Oil
+2008-01-15,92.97,Crude Oil
+2008-02-15,95.39,Crude Oil
+2008-03-15,105.45,Crude Oil
+2008-04-15,112.58,Crude Oil
+2008-05-15,125.4,Crude Oil
+2008-06-15,133.88,Crude Oil
+2008-07-15,133.37,Crude Oil
+2008-08-15,116.67,Crude Oil
+2008-09-15,104.11,Crude Oil
+2008-10-15,76.61,Crude Oil
+2008-11-15,57.31,Crude Oil
+2008-12-15,41.12,Crude Oil
+2009-01-15,41.71,Crude Oil
+2009-02-15,39.09,Crude Oil
+2009-03-15,47.94,Crude Oil
+2009-04-15,49.65,Crude Oil
+2009-05-15,59.03,Crude Oil
+2009-06-15,69.64,Crude Oil
+2009-07-15,64.15,Crude Oil
+2009-08-15,71.05,Crude Oil
+2009-09-15,69.41,Crude Oil
+2009-10-15,75.72,Crude Oil
+2009-11-15,77.99,Crude Oil
+2009-12-15,74.47,Crude Oil
+2010-01-15,78.33,Crude Oil
+2010-02-15,76.39,Crude Oil
+2010-03-15,81.2,Crude Oil
+2010-04-15,84.29,Crude Oil
+2010-05-15,73.74,Crude Oil
+2010-06-15,75.34,Crude Oil
+2010-07-15,76.32,Crude Oil
+2010-08-15,76.6,Crude Oil
+2010-09-15,75.24,Crude Oil
+2010-10-15,81.89,Crude Oil
+2010-11-15,84.25,Crude Oil
+2010-12-15,89.15,Crude Oil
+2011-01-15,89.17,Crude Oil
+2011-02-15,88.58,Crude Oil
+2011-03-15,102.86,Crude Oil
+2011-04-15,109.53,Crude Oil
+2011-05-15,100.9,Crude Oil
+2011-06-15,96.26,Crude Oil
+2011-07-15,97.3,Crude Oil
+2011-08-15,86.33,Crude Oil
+2011-09-15,85.52,Crude Oil
+2011-10-15,86.32,Crude Oil
+2011-11-15,97.16,Crude Oil
+2011-12-15,98.56,Crude Oil
+2012-01-15,100.27,Crude Oil
+2012-02-15,102.2,Crude Oil
+2012-03-15,106.16,Crude Oil
+2012-04-15,103.32,Crude Oil
+2012-05-15,94.66,Crude Oil
+2012-06-15,82.3,Crude Oil
+2012-07-15,87.9,Crude Oil
+2012-08-15,94.13,Crude Oil
+2012-09-15,94.51,Crude Oil
+2012-10-15,89.49,Crude Oil
+2012-11-15,86.53,Crude Oil
+2012-12-15,87.86,Crude Oil
+2013-01-15,94.76,Crude Oil
+2013-02-15,95.31,Crude Oil
+2013-03-15,92.94,Crude Oil
+2013-04-15,92.02,Crude Oil
+2013-05-15,94.51,Crude Oil
+2013-06-15,95.77,Crude Oil
+2013-07-15,104.67,Crude Oil
+2013-08-15,106.57,Crude Oil
+2013-09-15,106.29,Crude Oil
+2013-10-15,100.54,Crude Oil
+2013-11-15,93.86,Crude Oil
+2013-12-15,97.63,Crude Oil
+2014-01-15,94.62,Crude Oil
+2014-02-15,100.82,Crude Oil
+2014-03-15,100.8,Crude Oil
+2014-04-15,102.07,Crude Oil
+2014-05-15,102.18,Crude Oil
+2014-06-15,105.79,Crude Oil
+2014-07-15,103.59,Crude Oil
+2014-08-15,96.54,Crude Oil
+2014-09-15,93.21,Crude Oil
+2014-10-15,84.4,Crude Oil
+2014-11-15,75.79,Crude Oil
+2014-12-15,59.29,Crude Oil
+2015-01-15,47.22,Crude Oil
+2015-02-15,50.58,Crude Oil
+2015-03-15,47.82,Crude Oil
+2015-04-15,54.45,Crude Oil
+2015-05-15,59.27,Crude Oil
+2015-06-15,59.82,Crude Oil
+2015-07-15,50.9,Crude Oil
+2015-08-15,42.87,Crude Oil
+2015-09-15,45.48,Crude Oil
+2015-10-15,46.22,Crude Oil
+2015-11-15,42.44,Crude Oil
+2015-12-15,37.19,Crude Oil
+2016-01-15,31.68,Crude Oil
+2016-02-15,30.32,Crude Oil
+2016-03-15,37.55,Crude Oil
+2016-04-15,40.75,Crude Oil
+2016-05-15,46.71,Crude Oil
+2016-06-15,48.76,Crude Oil
+2016-07-15,44.65,Crude Oil
+2016-08-15,44.72,Crude Oil
+2016-09-15,45.18,Crude Oil
+2016-10-15,49.78,Crude Oil
+2016-11-15,45.66,Crude Oil
+2016-12-15,51.97,Crude Oil
+2017-01-15,52.5,Crude Oil
+2017-02-15,53.47,Crude Oil
+2017-03-15,49.33,Crude Oil
+2017-04-15,51.06,Crude Oil
+2017-05-15,48.48,Crude Oil
+2017-06-15,45.18,Crude Oil
+2017-07-15,46.63,Crude Oil
+2017-08-15,48.04,Crude Oil
+2017-09-15,49.82,Crude Oil
+2017-10-15,51.58,Crude Oil
+2017-11-15,56.64,Crude Oil
+2017-12-15,57.88,Crude Oil
+2018-01-15,63.7,Crude Oil
+2018-02-15,62.23,Crude Oil
+2018-03-15,62.73,Crude Oil
+2018-04-15,66.25,Crude Oil
+2018-05-15,69.98,Crude Oil
+2018-06-15,67.87,Crude Oil
+2018-07-15,70.98,Crude Oil
+2018-08-15,68.06,Crude Oil
+2018-09-15,70.23,Crude Oil
+2018-10-15,70.75,Crude Oil
+2018-11-15,56.96,Crude Oil
+2018-12-15,49.52,Crude Oil
+2019-01-15,51.38,Crude Oil
+2019-02-15,54.95,Crude Oil
+2019-03-15,58.15,Crude Oil
+2019-04-15,63.86,Crude Oil
+2019-05-15,60.83,Crude Oil
+2019-06-15,54.66,Crude Oil
+2019-07-15,57.35,Crude Oil
+2019-08-15,54.81,Crude Oil
+2019-09-15,56.95,Crude Oil
+2019-10-15,53.96,Crude Oil
+2019-11-15,57.03,Crude Oil
+2019-12-15,59.88,Crude Oil
+2020-01-15,57.52,Crude Oil
+2020-02-15,50.54,Crude Oil
+2020-03-15,29.21,Crude Oil
+2020-04-15,16.55,Crude Oil
+2020-05-15,28.56,Crude Oil
+2020-06-15,38.31,Crude Oil
+2020-07-15,40.71,Crude Oil
+2020-08-15,42.34,Crude Oil
+2020-09-15,39.63,Crude Oil
+2020-10-15,39.4,Crude Oil
+2020-11-15,40.94,Crude Oil
+2020-12-15,47.02,Crude Oil
+2021-01-15,52.0,Crude Oil
+2021-02-15,59.04,Crude Oil
+2021-03-15,62.33,Crude Oil
+2021-04-15,61.72,Crude Oil
+2021-05-15,65.17,Crude Oil
+2021-06-15,71.38,Crude Oil
+2021-07-15,72.49,Crude Oil
+2021-08-15,67.73,Crude Oil
+2021-09-15,71.65,Crude Oil
+2021-10-15,81.48,Crude Oil
+2021-11-15,79.15,Crude Oil
+2021-12-15,71.71,Crude Oil
+2022-01-15,83.22,Crude Oil
+2022-02-15,91.64,Crude Oil
+2022-03-15,108.5,Crude Oil
+2022-04-15,101.78,Crude Oil
+2022-05-15,109.55,Crude Oil
+2022-06-15,114.84,Crude Oil
+2022-07-15,101.62,Crude Oil
+2022-08-15,93.67,Crude Oil
+2022-09-15,84.26,Crude Oil
+2022-10-15,87.55,Crude Oil
+2022-11-15,84.37,Crude Oil
+2022-12-15,76.44,Crude Oil
+2023-01-15,78.12,Crude Oil
+2023-02-15,76.83,Crude Oil
+2023-03-15,73.28,Crude Oil
+2023-04-15,79.45,Crude Oil
+2023-05-15,71.58,Crude Oil
+2023-06-15,70.25,Crude Oil
+2023-07-15,76.07,Crude Oil
+2023-08-15,81.39,Crude Oil
+2023-09-15,89.43,Crude Oil
+2023-10-15,85.64,Crude Oil
+2023-11-15,77.69,Crude Oil
+2023-12-15,71.9,Crude Oil
+2024-01-15,74.15,Crude Oil
+2024-02-15,77.25,Crude Oil
+2024-03-15,81.28,Crude Oil
+2024-04-15,85.35,Crude Oil
+2024-05-15,80.02,Crude Oil
+2024-06-15,79.77,Crude Oil
+2024-07-15,81.8,Crude Oil
+2024-08-15,76.68,Crude Oil
+2024-09-15,70.24,Crude Oil
+2024-10-15,71.99,Crude Oil
+2024-11-15,69.95,Crude Oil
+2024-12-15,70.12,Crude Oil
+2025-01-15,75.74,Crude Oil
+2025-02-15,71.53,Crude Oil
+2025-03-15,68.24,Crude Oil
+2025-04-15,63.54,Crude Oil
+2025-05-15,62.17,Crude Oil
+2025-06-15,68.17,Crude Oil
+1986-07-15,0.34,Conventional Gasoline
+1986-08-15,0.426,Conventional Gasoline
+1986-09-15,0.42,Conventional Gasoline
+1986-10-15,0.41,Conventional Gasoline
+1986-11-15,0.411,Conventional Gasoline
+1986-12-15,0.434,Conventional Gasoline
+1987-01-15,0.489,Conventional Gasoline
+1987-02-15,0.474,Conventional Gasoline
+1987-03-15,0.509,Conventional Gasoline
+1987-04-15,0.504,Conventional Gasoline
+1987-05-15,0.542,Conventional Gasoline
+1987-06-15,0.557,Conventional Gasoline
+1987-07-15,0.556,Conventional Gasoline
+1987-08-15,0.523,Conventional Gasoline
+1987-09-15,0.518,Conventional Gasoline
+1987-10-15,0.541,Conventional Gasoline
+1987-11-15,0.516,Conventional Gasoline
+1987-12-15,0.454,Conventional Gasoline
+1988-01-15,0.449,Conventional Gasoline
+1988-02-15,0.461,Conventional Gasoline
+1988-03-15,0.452,Conventional Gasoline
+1988-04-15,0.507,Conventional Gasoline
+1988-05-15,0.522,Conventional Gasoline
+1988-06-15,0.518,Conventional Gasoline
+1988-07-15,0.554,Conventional Gasoline
+1988-08-15,0.483,Conventional Gasoline
+1988-09-15,0.466,Conventional Gasoline
+1988-10-15,0.511,Conventional Gasoline
+1988-11-15,0.521,Conventional Gasoline
+1988-12-15,0.472,Conventional Gasoline
+1989-01-15,0.501,Conventional Gasoline
+1989-02-15,0.483,Conventional Gasoline
+1989-03-15,0.547,Conventional Gasoline
+1989-04-15,0.7,Conventional Gasoline
+1989-05-15,0.679,Conventional Gasoline
+1989-06-15,0.637,Conventional Gasoline
+1989-07-15,0.563,Conventional Gasoline
+1989-08-15,0.527,Conventional Gasoline
+1989-09-15,0.593,Conventional Gasoline
+1989-10-15,0.556,Conventional Gasoline
+1989-11-15,0.509,Conventional Gasoline
+1989-12-15,0.541,Conventional Gasoline
+1990-01-15,0.639,Conventional Gasoline
+1990-02-15,0.593,Conventional Gasoline
+1990-03-15,0.556,Conventional Gasoline
+1990-04-15,0.6,Conventional Gasoline
+1990-05-15,0.643,Conventional Gasoline
+1990-06-15,0.646,Conventional Gasoline
+1990-07-15,0.653,Conventional Gasoline
+1990-08-15,0.897,Conventional Gasoline
+1990-09-15,0.997,Conventional Gasoline
+1990-10-15,0.957,Conventional Gasoline
+1990-11-15,0.879,Conventional Gasoline
+1990-12-15,0.679,Conventional Gasoline
+1991-01-15,0.688,Conventional Gasoline
+1991-02-15,0.659,Conventional Gasoline
+1991-03-15,0.723,Conventional Gasoline
+1991-04-15,0.72,Conventional Gasoline
+1991-05-15,0.701,Conventional Gasoline
+1991-06-15,0.635,Conventional Gasoline
+1991-07-15,0.652,Conventional Gasoline
+1991-08-15,0.697,Conventional Gasoline
+1991-09-15,0.621,Conventional Gasoline
+1991-10-15,0.645,Conventional Gasoline
+1991-11-15,0.649,Conventional Gasoline
+1991-12-15,0.555,Conventional Gasoline
+1992-01-15,0.53,Conventional Gasoline
+1992-02-15,0.553,Conventional Gasoline
+1992-03-15,0.571,Conventional Gasoline
+1992-04-15,0.598,Conventional Gasoline
+1992-05-15,0.634,Conventional Gasoline
+1992-06-15,0.645,Conventional Gasoline
+1992-07-15,0.6,Conventional Gasoline
+1992-08-15,0.621,Conventional Gasoline
+1992-09-15,0.618,Conventional Gasoline
+1992-10-15,0.605,Conventional Gasoline
+1992-11-15,0.582,Conventional Gasoline
+1992-12-15,0.533,Conventional Gasoline
+1993-01-15,0.527,Conventional Gasoline
+1993-02-15,0.523,Conventional Gasoline
+1993-03-15,0.54,Conventional Gasoline
+1993-04-15,0.594,Conventional Gasoline
+1993-05-15,0.594,Conventional Gasoline
+1993-06-15,0.548,Conventional Gasoline
+1993-07-15,0.519,Conventional Gasoline
+1993-08-15,0.532,Conventional Gasoline
+1993-09-15,0.486,Conventional Gasoline
+1993-10-15,0.503,Conventional Gasoline
+1993-11-15,0.444,Conventional Gasoline
+1993-12-15,0.376,Conventional Gasoline
+1994-01-15,0.422,Conventional Gasoline
+1994-02-15,0.436,Conventional Gasoline
+1994-03-15,0.441,Conventional Gasoline
+1994-04-15,0.49,Conventional Gasoline
+1994-05-15,0.505,Conventional Gasoline
+1994-06-15,0.528,Conventional Gasoline
+1994-07-15,0.545,Conventional Gasoline
+1994-08-15,0.555,Conventional Gasoline
+1994-09-15,0.464,Conventional Gasoline
+1994-10-15,0.51,Conventional Gasoline
+1994-11-15,0.52,Conventional Gasoline
+1994-12-15,0.468,Conventional Gasoline
+1995-01-15,0.511,Conventional Gasoline
+1995-02-15,0.511,Conventional Gasoline
+1995-03-15,0.504,Conventional Gasoline
+1995-04-15,0.61,Conventional Gasoline
+1995-05-15,0.648,Conventional Gasoline
+1995-06-15,0.596,Conventional Gasoline
+1995-07-15,0.511,Conventional Gasoline
+1995-08-15,0.533,Conventional Gasoline
+1995-09-15,0.561,Conventional Gasoline
+1995-10-15,0.487,Conventional Gasoline
+1995-11-15,0.505,Conventional Gasoline
+1995-12-15,0.534,Conventional Gasoline
+1996-01-15,0.506,Conventional Gasoline
+1996-02-15,0.533,Conventional Gasoline
+1996-03-15,0.585,Conventional Gasoline
+1996-04-15,0.691,Conventional Gasoline
+1996-05-15,0.649,Conventional Gasoline
+1996-06-15,0.58,Conventional Gasoline
+1996-07-15,0.616,Conventional Gasoline
+1996-08-15,0.609,Conventional Gasoline
+1996-09-15,0.624,Conventional Gasoline
+1996-10-15,0.655,Conventional Gasoline
+1996-11-15,0.691,Conventional Gasoline
+1996-12-15,0.687,Conventional Gasoline
+1997-01-15,0.674,Conventional Gasoline
+1997-02-15,0.624,Conventional Gasoline
+1997-03-15,0.613,Conventional Gasoline
+1997-04-15,0.587,Conventional Gasoline
+1997-05-15,0.621,Conventional Gasoline
+1997-06-15,0.551,Conventional Gasoline
+1997-07-15,0.587,Conventional Gasoline
+1997-08-15,0.705,Conventional Gasoline
+1997-09-15,0.623,Conventional Gasoline
+1997-10-15,0.584,Conventional Gasoline
+1997-11-15,0.557,Conventional Gasoline
+1997-12-15,0.518,Conventional Gasoline
+1998-01-15,0.478,Conventional Gasoline
+1998-02-15,0.449,Conventional Gasoline
+1998-03-15,0.447,Conventional Gasoline
+1998-04-15,0.47,Conventional Gasoline
+1998-05-15,0.482,Conventional Gasoline
+1998-06-15,0.439,Conventional Gasoline
+1998-07-15,0.423,Conventional Gasoline
+1998-08-15,0.403,Conventional Gasoline
+1998-09-15,0.429,Conventional Gasoline
+1998-10-15,0.435,Conventional Gasoline
+1998-11-15,0.372,Conventional Gasoline
+1998-12-15,0.307,Conventional Gasoline
+1999-01-15,0.343,Conventional Gasoline
+1999-02-15,0.317,Conventional Gasoline
+1999-03-15,0.423,Conventional Gasoline
+1999-04-15,0.501,Conventional Gasoline
+1999-05-15,0.492,Conventional Gasoline
+1999-06-15,0.489,Conventional Gasoline
+1999-07-15,0.583,Conventional Gasoline
+1999-08-15,0.639,Conventional Gasoline
+1999-09-15,0.688,Conventional Gasoline
+1999-10-15,0.627,Conventional Gasoline
+1999-11-15,0.696,Conventional Gasoline
+1999-12-15,0.703,Conventional Gasoline
+2000-01-15,0.705,Conventional Gasoline
+2000-02-15,0.816,Conventional Gasoline
+2000-03-15,0.889,Conventional Gasoline
+2000-04-15,0.729,Conventional Gasoline
+2000-05-15,0.888,Conventional Gasoline
+2000-06-15,0.963,Conventional Gasoline
+2000-07-15,0.859,Conventional Gasoline
+2000-08-15,0.872,Conventional Gasoline
+2000-09-15,0.961,Conventional Gasoline
+2000-10-15,0.948,Conventional Gasoline
+2000-11-15,0.944,Conventional Gasoline
+2000-12-15,0.737,Conventional Gasoline
+2001-01-15,0.829,Conventional Gasoline
+2001-02-15,0.826,Conventional Gasoline
+2001-03-15,0.785,Conventional Gasoline
+2001-04-15,0.947,Conventional Gasoline
+2001-05-15,0.927,Conventional Gasoline
+2001-06-15,0.72,Conventional Gasoline
+2001-07-15,0.683,Conventional Gasoline
+2001-08-15,0.776,Conventional Gasoline
+2001-09-15,0.761,Conventional Gasoline
+2001-10-15,0.598,Conventional Gasoline
+2001-11-15,0.517,Conventional Gasoline
+2001-12-15,0.517,Conventional Gasoline
+2002-01-15,0.544,Conventional Gasoline
+2002-02-15,0.553,Conventional Gasoline
+2002-03-15,0.698,Conventional Gasoline
+2002-04-15,0.744,Conventional Gasoline
+2002-05-15,0.703,Conventional Gasoline
+2002-06-15,0.717,Conventional Gasoline
+2002-07-15,0.766,Conventional Gasoline
+2002-08-15,0.769,Conventional Gasoline
+2002-09-15,0.778,Conventional Gasoline
+2002-10-15,0.826,Conventional Gasoline
+2002-11-15,0.766,Conventional Gasoline
+2002-12-15,0.808,Conventional Gasoline
+2003-01-15,0.879,Conventional Gasoline
+2003-02-15,0.996,Conventional Gasoline
+2003-03-15,0.955,Conventional Gasoline
+2003-04-15,0.799,Conventional Gasoline
+2003-05-15,0.76,Conventional Gasoline
+2003-06-15,0.808,Conventional Gasoline
+2003-07-15,0.873,Conventional Gasoline
+2003-08-15,1.007,Conventional Gasoline
+2003-09-15,0.903,Conventional Gasoline
+2003-10-15,0.875,Conventional Gasoline
+2003-11-15,0.882,Conventional Gasoline
+2003-12-15,0.885,Conventional Gasoline
+2004-01-15,0.998,Conventional Gasoline
+2004-02-15,1.047,Conventional Gasoline
+2004-03-15,1.091,Conventional Gasoline
+2004-04-15,1.119,Conventional Gasoline
+2004-05-15,1.344,Conventional Gasoline
+2004-06-15,1.153,Conventional Gasoline
+2004-07-15,1.225,Conventional Gasoline
+2004-08-15,1.206,Conventional Gasoline
+2004-09-15,1.261,Conventional Gasoline
+2004-10-15,1.377,Conventional Gasoline
+2004-11-15,1.267,Conventional Gasoline
+2004-12-15,1.068,Conventional Gasoline
+2005-01-15,1.241,Conventional Gasoline
+2005-02-15,1.224,Conventional Gasoline
+2005-03-15,1.439,Conventional Gasoline
+2005-04-15,1.48,Conventional Gasoline
+2005-05-15,1.371,Conventional Gasoline
+2005-06-15,1.509,Conventional Gasoline
+2005-07-15,1.591,Conventional Gasoline
+2005-08-15,1.937,Conventional Gasoline
+2005-09-15,2.133,Conventional Gasoline
+2005-10-15,1.709,Conventional Gasoline
+2005-11-15,1.47,Conventional Gasoline
+2005-12-15,1.6,Conventional Gasoline
+2006-01-15,1.735,Conventional Gasoline
+2006-02-15,1.499,Conventional Gasoline
+2006-03-15,1.765,Conventional Gasoline
+2006-04-15,2.135,Conventional Gasoline
+2006-05-15,2.042,Conventional Gasoline
+2006-06-15,2.065,Conventional Gasoline
+2006-07-15,2.237,Conventional Gasoline
+2006-08-15,2.038,Conventional Gasoline
+2006-09-15,1.583,Conventional Gasoline
+2006-10-15,1.506,Conventional Gasoline
+2006-11-15,1.588,Conventional Gasoline
+2006-12-15,1.67,Conventional Gasoline
+2007-01-15,1.432,Conventional Gasoline
+2007-02-15,1.64,Conventional Gasoline
+2007-03-15,1.938,Conventional Gasoline
+2007-04-15,2.105,Conventional Gasoline
+2007-05-15,2.245,Conventional Gasoline
+2007-06-15,2.186,Conventional Gasoline
+2007-07-15,2.137,Conventional Gasoline
+2007-08-15,2.004,Conventional Gasoline
+2007-09-15,2.102,Conventional Gasoline
+2007-10-15,2.169,Conventional Gasoline
+2007-11-15,2.424,Conventional Gasoline
+2007-12-15,2.33,Conventional Gasoline
+2008-01-15,2.334,Conventional Gasoline
+2008-02-15,2.381,Conventional Gasoline
+2008-03-15,2.504,Conventional Gasoline
+2008-04-15,2.762,Conventional Gasoline
+2008-05-15,3.098,Conventional Gasoline
+2008-06-15,3.292,Conventional Gasoline
+2008-07-15,3.148,Conventional Gasoline
+2008-08-15,2.897,Conventional Gasoline
+2008-09-15,2.805,Conventional Gasoline
+2008-10-15,1.92,Conventional Gasoline
+2008-11-15,1.283,Conventional Gasoline
+2008-12-15,0.956,Conventional Gasoline
+2009-01-15,1.146,Conventional Gasoline
+2009-02-15,1.216,Conventional Gasoline
+2009-03-15,1.288,Conventional Gasoline
+2009-04-15,1.379,Conventional Gasoline
+2009-05-15,1.689,Conventional Gasoline
+2009-06-15,1.906,Conventional Gasoline
+2009-07-15,1.75,Conventional Gasoline
+2009-08-15,1.93,Conventional Gasoline
+2009-09-15,1.779,Conventional Gasoline
+2009-10-15,1.924,Conventional Gasoline
+2009-11-15,1.983,Conventional Gasoline
+2009-12-15,1.919,Conventional Gasoline
+2010-01-15,2.04,Conventional Gasoline
+2010-02-15,1.963,Conventional Gasoline
+2010-03-15,2.14,Conventional Gasoline
+2010-04-15,2.227,Conventional Gasoline
+2010-05-15,2.019,Conventional Gasoline
+2010-06-15,2.014,Conventional Gasoline
+2010-07-15,1.995,Conventional Gasoline
+2010-08-15,1.943,Conventional Gasoline
+2010-09-15,1.969,Conventional Gasoline
+2010-10-15,2.164,Conventional Gasoline
+2010-11-15,2.244,Conventional Gasoline
+2010-12-15,2.389,Conventional Gasoline
+2011-01-15,2.448,Conventional Gasoline
+2011-02-15,2.558,Conventional Gasoline
+2011-03-15,2.838,Conventional Gasoline
+2011-04-15,3.178,Conventional Gasoline
+2011-05-15,3.024,Conventional Gasoline
+2011-06-15,2.835,Conventional Gasoline
+2011-07-15,3.021,Conventional Gasoline
+2011-08-15,2.835,Conventional Gasoline
+2011-09-15,2.768,Conventional Gasoline
+2011-10-15,2.772,Conventional Gasoline
+2011-11-15,2.629,Conventional Gasoline
+2011-12-15,2.634,Conventional Gasoline
+2012-01-15,2.822,Conventional Gasoline
+2012-02-15,3.044,Conventional Gasoline
+2012-03-15,3.167,Conventional Gasoline
+2012-04-15,3.206,Conventional Gasoline
+2012-05-15,2.877,Conventional Gasoline
+2012-06-15,2.602,Conventional Gasoline
+2012-07-15,2.747,Conventional Gasoline
+2012-08-15,3.022,Conventional Gasoline
+2012-09-15,3.27,Conventional Gasoline
+2012-10-15,2.975,Conventional Gasoline
+2012-11-15,2.817,Conventional Gasoline
+2012-12-15,2.727,Conventional Gasoline
+2013-01-15,2.852,Conventional Gasoline
+2013-02-15,3.053,Conventional Gasoline
+2013-03-15,2.914,Conventional Gasoline
+2013-04-15,2.706,Conventional Gasoline
+2013-05-15,2.742,Conventional Gasoline
+2013-06-15,2.74,Conventional Gasoline
+2013-07-15,2.924,Conventional Gasoline
+2013-08-15,2.933,Conventional Gasoline
+2013-09-15,2.797,Conventional Gasoline
+2013-10-15,2.685,Conventional Gasoline
+2013-11-15,2.673,Conventional Gasoline
+2013-12-15,2.736,Conventional Gasoline
+2014-01-15,2.672,Conventional Gasoline
+2014-02-15,2.795,Conventional Gasoline
+2014-03-15,2.753,Conventional Gasoline
+2014-04-15,2.896,Conventional Gasoline
+2014-05-15,2.862,Conventional Gasoline
+2014-06-15,2.896,Conventional Gasoline
+2014-07-15,2.802,Conventional Gasoline
+2014-08-15,2.705,Conventional Gasoline
+2014-09-15,2.721,Conventional Gasoline
+2014-10-15,2.398,Conventional Gasoline
+2014-11-15,2.165,Conventional Gasoline
+2014-12-15,1.683,Conventional Gasoline
+2015-01-15,1.364,Conventional Gasoline
+2015-02-15,1.607,Conventional Gasoline
+2015-03-15,1.644,Conventional Gasoline
+2015-04-15,1.793,Conventional Gasoline
+2015-05-15,1.938,Conventional Gasoline
+2015-06-15,2.005,Conventional Gasoline
+2015-07-15,1.86,Conventional Gasoline
+2015-08-15,1.62,Conventional Gasoline
+2015-09-15,1.46,Conventional Gasoline
+2015-10-15,1.397,Conventional Gasoline
+2015-11-15,1.377,Conventional Gasoline
+2015-12-15,1.276,Conventional Gasoline
+2016-01-15,1.121,Conventional Gasoline
+2016-02-15,1.058,Conventional Gasoline
+2016-03-15,1.201,Conventional Gasoline
+2016-04-15,1.448,Conventional Gasoline
+2016-05-15,1.566,Conventional Gasoline
+2016-06-15,1.506,Conventional Gasoline
+2016-07-15,1.354,Conventional Gasoline
+2016-08-15,1.379,Conventional Gasoline
+2016-09-15,1.438,Conventional Gasoline
+2016-10-15,1.522,Conventional Gasoline
+2016-11-15,1.462,Conventional Gasoline
+2016-12-15,1.634,Conventional Gasoline
+2017-01-15,1.62,Conventional Gasoline
+2017-02-15,1.547,Conventional Gasoline
+2017-03-15,1.492,Conventional Gasoline
+2017-04-15,1.611,Conventional Gasoline
+2017-05-15,1.54,Conventional Gasoline
+2017-06-15,1.445,Conventional Gasoline
+2017-07-15,1.562,Conventional Gasoline
+2017-08-15,1.688,Conventional Gasoline
+2017-09-15,1.867,Conventional Gasoline
+2017-10-15,1.715,Conventional Gasoline
+2017-11-15,1.83,Conventional Gasoline
+2017-12-15,1.757,Conventional Gasoline
+2018-01-15,1.899,Conventional Gasoline
+2018-02-15,1.817,Conventional Gasoline
+2018-03-15,1.834,Conventional Gasoline
+2018-04-15,1.995,Conventional Gasoline
+2018-05-15,2.129,Conventional Gasoline
+2018-06-15,2.03,Conventional Gasoline
+2018-07-15,2.074,Conventional Gasoline
+2018-08-15,2.077,Conventional Gasoline
+2018-09-15,2.093,Conventional Gasoline
+2018-10-15,2.028,Conventional Gasoline
+2018-11-15,1.625,Conventional Gasoline
+2018-12-15,1.449,Conventional Gasoline
+2019-01-15,1.425,Conventional Gasoline
+2019-02-15,1.568,Conventional Gasoline
+2019-03-15,1.812,Conventional Gasoline
+2019-04-15,2.042,Conventional Gasoline
+2019-05-15,1.916,Conventional Gasoline
+2019-06-15,1.74,Conventional Gasoline
+2019-07-15,1.89,Conventional Gasoline
+2019-08-15,1.694,Conventional Gasoline
+2019-09-15,1.726,Conventional Gasoline
+2019-10-15,1.728,Conventional Gasoline
+2019-11-15,1.724,Conventional Gasoline
+2019-12-15,1.713,Conventional Gasoline
+2020-01-15,1.658,Conventional Gasoline
+2020-02-15,1.58,Conventional Gasoline
+2020-03-15,0.891,Conventional Gasoline
+2020-04-15,0.593,Conventional Gasoline
+2020-05-15,0.876,Conventional Gasoline
+2020-06-15,1.121,Conventional Gasoline
+2020-07-15,1.22,Conventional Gasoline
+2020-08-15,1.248,Conventional Gasoline
+2020-09-15,1.227,Conventional Gasoline
+2020-10-15,1.201,Conventional Gasoline
+2020-11-15,1.19,Conventional Gasoline
+2020-12-15,1.359,Conventional Gasoline
+2021-01-15,1.563,Conventional Gasoline
+2021-02-15,1.761,Conventional Gasoline
+2021-03-15,1.986,Conventional Gasoline
+2021-04-15,1.988,Conventional Gasoline
+2021-05-15,2.116,Conventional Gasoline
+2021-06-15,2.167,Conventional Gasoline
+2021-07-15,2.257,Conventional Gasoline
+2021-08-15,2.235,Conventional Gasoline
+2021-09-15,2.284,Conventional Gasoline
+2021-10-15,2.5,Conventional Gasoline
+2021-11-15,2.39,Conventional Gasoline
+2021-12-15,2.203,Conventional Gasoline
+2022-01-15,2.449,Conventional Gasoline
+2022-02-15,2.739,Conventional Gasoline
+2022-03-15,3.184,Conventional Gasoline
+2022-04-15,3.193,Conventional Gasoline
+2022-05-15,3.828,Conventional Gasoline
+2022-06-15,4.082,Conventional Gasoline
+2022-07-15,3.484,Conventional Gasoline
+2022-08-15,3.027,Conventional Gasoline
+2022-09-15,2.642,Conventional Gasoline
+2022-10-15,3.013,Conventional Gasoline
+2022-11-15,2.852,Conventional Gasoline
+2022-12-15,2.366,Conventional Gasoline
+2023-01-15,2.593,Conventional Gasoline
+2023-02-15,2.532,Conventional Gasoline
+2023-03-15,2.515,Conventional Gasoline
+2023-04-15,2.765,Conventional Gasoline
+2023-05-15,2.57,Conventional Gasoline
+2023-06-15,2.659,Conventional Gasoline
+2023-07-15,2.7,Conventional Gasoline
+2023-08-15,2.874,Conventional Gasoline
+2023-09-15,2.894,Conventional Gasoline
+2023-10-15,2.524,Conventional Gasoline
+2023-11-15,2.306,Conventional Gasoline
+2023-12-15,2.226,Conventional Gasoline
+2024-01-15,2.244,Conventional Gasoline
+2024-02-15,2.326,Conventional Gasoline
+2024-03-15,2.48,Conventional Gasoline
+2024-04-15,2.749,Conventional Gasoline
+2024-05-15,2.531,Conventional Gasoline
+2024-06-15,2.444,Conventional Gasoline
+2024-07-15,2.49,Conventional Gasoline
+2024-08-15,2.329,Conventional Gasoline
+2024-09-15,2.057,Conventional Gasoline
+2024-10-15,2.152,Conventional Gasoline
+2024-11-15,2.112,Conventional Gasoline
+2024-12-15,2.041,Conventional Gasoline
+2025-01-15,2.152,Conventional Gasoline
+2025-02-15,2.112,Conventional Gasoline
+2025-03-15,1.987,Conventional Gasoline
+2025-04-15,1.907,Conventional Gasoline
+2025-05-15,1.965,Conventional Gasoline
+2025-06-15,2.099,Conventional Gasoline
+2003-07-15,0.965,RBOB Regular Gasoline
+2003-08-15,1.315,RBOB Regular Gasoline
+2003-09-15,0.949,RBOB Regular Gasoline
+2003-10-15,0.996,RBOB Regular Gasoline
+2003-11-15,1.02,RBOB Regular Gasoline
+2003-12-15,0.959,RBOB Regular Gasoline
+2004-01-15,1.079,RBOB Regular Gasoline
+2004-02-15,1.344,RBOB Regular Gasoline
+2004-03-15,1.323,RBOB Regular Gasoline
+2004-04-15,1.426,RBOB Regular Gasoline
+2004-05-15,1.649,RBOB Regular Gasoline
+2004-06-15,1.457,RBOB Regular Gasoline
+2004-07-15,1.467,RBOB Regular Gasoline
+2004-08-15,1.388,RBOB Regular Gasoline
+2004-09-15,1.481,RBOB Regular Gasoline
+2004-10-15,1.642,RBOB Regular Gasoline
+2004-11-15,1.404,RBOB Regular Gasoline
+2004-12-15,1.185,RBOB Regular Gasoline
+2005-01-15,1.379,RBOB Regular Gasoline
+2005-02-15,1.545,RBOB Regular Gasoline
+2005-03-15,1.718,RBOB Regular Gasoline
+2005-04-15,1.829,RBOB Regular Gasoline
+2005-05-15,1.6,RBOB Regular Gasoline
+2005-06-15,1.745,RBOB Regular Gasoline
+2005-07-15,1.882,RBOB Regular Gasoline
+2005-08-15,2.142,RBOB Regular Gasoline
+2005-09-15,2.278,RBOB Regular Gasoline
+2005-10-15,1.902,RBOB Regular Gasoline
+2005-11-15,1.577,RBOB Regular Gasoline
+2005-12-15,1.606,RBOB Regular Gasoline
+2006-01-15,1.873,RBOB Regular Gasoline
+2006-02-15,1.73,RBOB Regular Gasoline
+2006-03-15,2.0,RBOB Regular Gasoline
+2006-04-15,2.448,RBOB Regular Gasoline
+2006-05-15,2.551,RBOB Regular Gasoline
+2006-06-15,2.401,RBOB Regular Gasoline
+2006-07-15,2.488,RBOB Regular Gasoline
+2006-08-15,2.19,RBOB Regular Gasoline
+2006-09-15,1.782,RBOB Regular Gasoline
+2006-10-15,1.686,RBOB Regular Gasoline
+2006-11-15,1.797,RBOB Regular Gasoline
+2006-12-15,1.805,RBOB Regular Gasoline
+2007-01-15,1.682,RBOB Regular Gasoline
+2007-02-15,2.019,RBOB Regular Gasoline
+2007-03-15,2.373,RBOB Regular Gasoline
+2007-04-15,2.531,RBOB Regular Gasoline
+2007-05-15,2.572,RBOB Regular Gasoline
+2007-06-15,2.354,RBOB Regular Gasoline
+2007-07-15,2.311,RBOB Regular Gasoline
+2007-08-15,2.049,RBOB Regular Gasoline
+2007-09-15,2.208,RBOB Regular Gasoline
+2007-10-15,2.394,RBOB Regular Gasoline
+2007-11-15,2.559,RBOB Regular Gasoline
+2007-12-15,2.45,RBOB Regular Gasoline
+2008-01-15,2.323,RBOB Regular Gasoline
+2008-02-15,2.609,RBOB Regular Gasoline
+2008-03-15,2.783,RBOB Regular Gasoline
+2008-04-15,3.068,RBOB Regular Gasoline
+2008-05-15,3.311,RBOB Regular Gasoline
+2008-06-15,3.694,RBOB Regular Gasoline
+2008-07-15,3.286,RBOB Regular Gasoline
+2008-08-15,3.072,RBOB Regular Gasoline
+2008-09-15,2.87,RBOB Regular Gasoline
+2008-10-15,2.125,RBOB Regular Gasoline
+2008-11-15,1.268,RBOB Regular Gasoline
+2008-12-15,1.11,RBOB Regular Gasoline
+2009-01-15,1.457,RBOB Regular Gasoline
+2009-02-15,1.547,RBOB Regular Gasoline
+2009-03-15,1.473,RBOB Regular Gasoline
+2009-04-15,1.575,RBOB Regular Gasoline
+2009-05-15,1.847,RBOB Regular Gasoline
+2009-06-15,2.085,RBOB Regular Gasoline
+2009-07-15,1.913,RBOB Regular Gasoline
+2009-08-15,2.113,RBOB Regular Gasoline
+2009-09-15,2.056,RBOB Regular Gasoline
+2009-10-15,2.032,RBOB Regular Gasoline
+2009-11-15,1.979,RBOB Regular Gasoline
+2009-12-15,2.014,RBOB Regular Gasoline
+2010-01-15,2.057,RBOB Regular Gasoline
+2010-02-15,2.073,RBOB Regular Gasoline
+2010-03-15,2.257,RBOB Regular Gasoline
+2010-04-15,2.307,RBOB Regular Gasoline
+2010-05-15,2.115,RBOB Regular Gasoline
+2010-06-15,2.255,RBOB Regular Gasoline
+2010-07-15,2.281,RBOB Regular Gasoline
+2010-08-15,2.178,RBOB Regular Gasoline
+2010-09-15,2.069,RBOB Regular Gasoline
+2010-10-15,2.259,RBOB Regular Gasoline
+2010-11-15,2.245,RBOB Regular Gasoline
+2010-12-15,2.42,RBOB Regular Gasoline
+2011-01-15,2.447,RBOB Regular Gasoline
+2011-02-15,2.758,RBOB Regular Gasoline
+2011-03-15,3.153,RBOB Regular Gasoline
+2011-04-15,3.373,RBOB Regular Gasoline
+2011-05-15,3.055,RBOB Regular Gasoline
+2011-06-15,2.861,RBOB Regular Gasoline
+2011-07-15,2.948,RBOB Regular Gasoline
+2011-08-15,2.839,RBOB Regular Gasoline
+2011-09-15,2.917,RBOB Regular Gasoline
+2011-10-15,2.949,RBOB Regular Gasoline
+2011-11-15,2.737,RBOB Regular Gasoline
+2011-12-15,2.702,RBOB Regular Gasoline
+2012-01-15,2.92,RBOB Regular Gasoline
+2012-02-15,3.302,RBOB Regular Gasoline
+2012-03-15,3.383,RBOB Regular Gasoline
+2012-04-15,3.25,RBOB Regular Gasoline
+2012-05-15,3.234,RBOB Regular Gasoline
+2012-06-15,2.626,RBOB Regular Gasoline
+2012-07-15,2.819,RBOB Regular Gasoline
+2012-08-15,3.129,RBOB Regular Gasoline
+2012-09-15,3.162,RBOB Regular Gasoline
+2012-10-15,3.135,RBOB Regular Gasoline
+2012-11-15,2.792,RBOB Regular Gasoline
+2012-12-15,2.615,RBOB Regular Gasoline
+2013-01-15,2.9,RBOB Regular Gasoline
+2013-02-15,3.332,RBOB Regular Gasoline
+2013-03-15,3.029,RBOB Regular Gasoline
+2013-04-15,2.906,RBOB Regular Gasoline
+2013-05-15,2.999,RBOB Regular Gasoline
+2013-06-15,3.021,RBOB Regular Gasoline
+2013-07-15,3.047,RBOB Regular Gasoline
+2013-08-15,2.825,RBOB Regular Gasoline
+2013-09-15,2.907,RBOB Regular Gasoline
+2013-10-15,2.761,RBOB Regular Gasoline
+2013-11-15,2.651,RBOB Regular Gasoline
+2013-12-15,2.685,RBOB Regular Gasoline
+2014-01-15,2.628,RBOB Regular Gasoline
+2014-02-15,2.869,RBOB Regular Gasoline
+2014-03-15,2.894,RBOB Regular Gasoline
+2014-04-15,3.169,RBOB Regular Gasoline
+2014-05-15,3.036,RBOB Regular Gasoline
+2014-06-15,3.116,RBOB Regular Gasoline
+2014-07-15,2.908,RBOB Regular Gasoline
+2014-08-15,2.808,RBOB Regular Gasoline
+2014-09-15,2.719,RBOB Regular Gasoline
+2014-10-15,2.338,RBOB Regular Gasoline
+2014-11-15,2.024,RBOB Regular Gasoline
+2014-12-15,1.508,RBOB Regular Gasoline
+2015-01-15,1.301,RBOB Regular Gasoline
+2015-02-15,1.942,RBOB Regular Gasoline
+2015-03-15,2.017,RBOB Regular Gasoline
+2015-04-15,2.154,RBOB Regular Gasoline
+2015-05-15,2.472,RBOB Regular Gasoline
+2015-06-15,2.187,RBOB Regular Gasoline
+2015-07-15,2.663,RBOB Regular Gasoline
+2015-08-15,2.075,RBOB Regular Gasoline
+2015-09-15,1.715,RBOB Regular Gasoline
+2015-10-15,1.669,RBOB Regular Gasoline
+2015-11-15,1.507,RBOB Regular Gasoline
+2015-12-15,1.647,RBOB Regular Gasoline
+2016-01-15,1.32,RBOB Regular Gasoline
+2016-02-15,0.97,RBOB Regular Gasoline
+2016-03-15,1.528,RBOB Regular Gasoline
+2016-04-15,1.551,RBOB Regular Gasoline
+2016-05-15,1.53,RBOB Regular Gasoline
+2016-06-15,1.642,RBOB Regular Gasoline
+2016-07-15,1.412,RBOB Regular Gasoline
+2016-08-15,1.388,RBOB Regular Gasoline
+2016-09-15,1.552,RBOB Regular Gasoline
+2016-10-15,1.619,RBOB Regular Gasoline
+2016-11-15,1.434,RBOB Regular Gasoline
+2016-12-15,1.5,RBOB Regular Gasoline
+2017-01-15,1.612,RBOB Regular Gasoline
+2017-02-15,1.756,RBOB Regular Gasoline
+2017-03-15,1.72,RBOB Regular Gasoline
+2017-04-15,1.777,RBOB Regular Gasoline
+2017-05-15,1.746,RBOB Regular Gasoline
+2017-06-15,1.619,RBOB Regular Gasoline
+2017-07-15,1.669,RBOB Regular Gasoline
+2017-08-15,1.807,RBOB Regular Gasoline
+2017-09-15,1.823,RBOB Regular Gasoline
+2017-10-15,1.761,RBOB Regular Gasoline
+2017-11-15,1.836,RBOB Regular Gasoline
+2017-12-15,1.646,RBOB Regular Gasoline
+2018-01-15,1.944,RBOB Regular Gasoline
+2018-02-15,1.877,RBOB Regular Gasoline
+2018-03-15,2.08,RBOB Regular Gasoline
+2018-04-15,2.213,RBOB Regular Gasoline
+2018-05-15,2.295,RBOB Regular Gasoline
+2018-06-15,2.136,RBOB Regular Gasoline
+2018-07-15,2.14,RBOB Regular Gasoline
+2018-08-15,2.078,RBOB Regular Gasoline
+2018-09-15,2.224,RBOB Regular Gasoline
+2018-10-15,2.254,RBOB Regular Gasoline
+2018-11-15,1.739,RBOB Regular Gasoline
+2018-12-15,1.597,RBOB Regular Gasoline
+2019-01-15,1.607,RBOB Regular Gasoline
+2019-02-15,1.817,RBOB Regular Gasoline
+2019-03-15,2.004,RBOB Regular Gasoline
+2019-04-15,2.512,RBOB Regular Gasoline
+2019-05-15,2.239,RBOB Regular Gasoline
+2019-06-15,1.851,RBOB Regular Gasoline
+2019-07-15,1.919,RBOB Regular Gasoline
+2019-08-15,1.809,RBOB Regular Gasoline
+2019-09-15,2.059,RBOB Regular Gasoline
+2019-10-15,2.219,RBOB Regular Gasoline
+2019-11-15,1.919,RBOB Regular Gasoline
+2019-12-15,1.659,RBOB Regular Gasoline
+2020-01-15,1.849,RBOB Regular Gasoline
+2020-02-15,1.851,RBOB Regular Gasoline
+2020-03-15,0.93,RBOB Regular Gasoline
+2020-04-15,0.469,RBOB Regular Gasoline
+2020-05-15,1.032,RBOB Regular Gasoline
+2020-06-15,1.301,RBOB Regular Gasoline
+2020-07-15,1.328,RBOB Regular Gasoline
+2020-08-15,1.417,RBOB Regular Gasoline
+2020-09-15,1.299,RBOB Regular Gasoline
+2020-10-15,1.247,RBOB Regular Gasoline
+2020-11-15,1.312,RBOB Regular Gasoline
+2020-12-15,1.432,RBOB Regular Gasoline
+2021-01-15,1.654,RBOB Regular Gasoline
+2021-02-15,1.822,RBOB Regular Gasoline
+2021-03-15,2.066,RBOB Regular Gasoline
+2021-04-15,2.099,RBOB Regular Gasoline
+2021-05-15,2.239,RBOB Regular Gasoline
+2021-06-15,2.311,RBOB Regular Gasoline
+2021-07-15,2.361,RBOB Regular Gasoline
+2021-08-15,2.336,RBOB Regular Gasoline
+2021-09-15,2.25,RBOB Regular Gasoline
+2021-10-15,2.535,RBOB Regular Gasoline
+2021-11-15,2.53,RBOB Regular Gasoline
+2021-12-15,2.315,RBOB Regular Gasoline
+2022-01-15,2.548,RBOB Regular Gasoline
+2022-02-15,2.818,RBOB Regular Gasoline
+2022-03-15,3.784,RBOB Regular Gasoline
+2022-04-15,3.408,RBOB Regular Gasoline
+2022-05-15,4.034,RBOB Regular Gasoline
+2022-06-15,4.27,RBOB Regular Gasoline
+2022-07-15,3.33,RBOB Regular Gasoline
+2022-08-15,3.123,RBOB Regular Gasoline
+2022-09-15,3.884,RBOB Regular Gasoline
+2022-10-15,3.227,RBOB Regular Gasoline
+2022-11-15,2.854,RBOB Regular Gasoline
+2022-12-15,2.249,RBOB Regular Gasoline
+2023-01-15,2.571,RBOB Regular Gasoline
+2023-02-15,2.907,RBOB Regular Gasoline
+2023-03-15,2.756,RBOB Regular Gasoline
+2023-04-15,2.799,RBOB Regular Gasoline
+2023-05-15,2.672,RBOB Regular Gasoline
+2023-06-15,2.802,RBOB Regular Gasoline
+2023-07-15,2.97,RBOB Regular Gasoline
+2023-08-15,3.276,RBOB Regular Gasoline
+2023-09-15,3.78,RBOB Regular Gasoline
+2023-10-15,2.635,RBOB Regular Gasoline
+2023-11-15,2.524,RBOB Regular Gasoline
+2023-12-15,2.32,RBOB Regular Gasoline
+2024-01-15,2.274,RBOB Regular Gasoline
+2024-02-15,2.555,RBOB Regular Gasoline
+2024-03-15,2.911,RBOB Regular Gasoline
+2024-04-15,3.194,RBOB Regular Gasoline
+2024-05-15,2.702,RBOB Regular Gasoline
+2024-06-15,2.43,RBOB Regular Gasoline
+2024-07-15,2.373,RBOB Regular Gasoline
+2024-08-15,2.393,RBOB Regular Gasoline
+2024-09-15,2.359,RBOB Regular Gasoline
+2024-10-15,2.283,RBOB Regular Gasoline
+2024-11-15,2.165,RBOB Regular Gasoline
+2024-12-15,2.035,RBOB Regular Gasoline
+2025-01-15,2.206,RBOB Regular Gasoline
+2025-02-15,2.456,RBOB Regular Gasoline
+2025-03-15,2.344,RBOB Regular Gasoline
+2025-04-15,2.428,RBOB Regular Gasoline
+2025-05-15,2.45,RBOB Regular Gasoline
+2025-06-15,2.288,RBOB Regular Gasoline
+1986-07-15,0.334,No. 2 Heating Oil
+1986-08-15,0.408,No. 2 Heating Oil
+1986-09-15,0.402,No. 2 Heating Oil
+1986-10-15,0.394,No. 2 Heating Oil
+1986-11-15,0.422,No. 2 Heating Oil
+1986-12-15,0.447,No. 2 Heating Oil
+1987-01-15,0.521,No. 2 Heating Oil
+1987-02-15,0.474,No. 2 Heating Oil
+1987-03-15,0.491,No. 2 Heating Oil
+1987-04-15,0.485,No. 2 Heating Oil
+1987-05-15,0.518,No. 2 Heating Oil
+1987-06-15,0.523,No. 2 Heating Oil
+1987-07-15,0.547,No. 2 Heating Oil
+1987-08-15,0.524,No. 2 Heating Oil
+1987-09-15,0.523,No. 2 Heating Oil
+1987-10-15,0.563,No. 2 Heating Oil
+1987-11-15,0.559,No. 2 Heating Oil
+1987-12-15,0.536,No. 2 Heating Oil
+1988-01-15,0.518,No. 2 Heating Oil
+1988-02-15,0.481,No. 2 Heating Oil
+1988-03-15,0.475,No. 2 Heating Oil
+1988-04-15,0.515,No. 2 Heating Oil
+1988-05-15,0.509,No. 2 Heating Oil
+1988-06-15,0.448,No. 2 Heating Oil
+1988-07-15,0.427,No. 2 Heating Oil
+1988-08-15,0.434,No. 2 Heating Oil
+1988-09-15,0.406,No. 2 Heating Oil
+1988-10-15,0.402,No. 2 Heating Oil
+1988-11-15,0.449,No. 2 Heating Oil
+1988-12-15,0.51,No. 2 Heating Oil
+1989-01-15,0.544,No. 2 Heating Oil
+1989-02-15,0.513,No. 2 Heating Oil
+1989-03-15,0.569,No. 2 Heating Oil
+1989-04-15,0.538,No. 2 Heating Oil
+1989-05-15,0.507,No. 2 Heating Oil
+1989-06-15,0.485,No. 2 Heating Oil
+1989-07-15,0.493,No. 2 Heating Oil
+1989-08-15,0.498,No. 2 Heating Oil
+1989-09-15,0.557,No. 2 Heating Oil
+1989-10-15,0.588,No. 2 Heating Oil
+1989-11-15,0.593,No. 2 Heating Oil
+1989-12-15,0.803,No. 2 Heating Oil
+1990-01-15,0.711,No. 2 Heating Oil
+1990-02-15,0.575,No. 2 Heating Oil
+1990-03-15,0.58,No. 2 Heating Oil
+1990-04-15,0.585,No. 2 Heating Oil
+1990-05-15,0.539,No. 2 Heating Oil
+1990-06-15,0.481,No. 2 Heating Oil
+1990-07-15,0.531,No. 2 Heating Oil
+1990-08-15,0.753,No. 2 Heating Oil
+1990-09-15,0.888,No. 2 Heating Oil
+1990-10-15,0.942,No. 2 Heating Oil
+1990-11-15,0.873,No. 2 Heating Oil
+1990-12-15,0.796,No. 2 Heating Oil
+1991-01-15,0.75,No. 2 Heating Oil
+1991-02-15,0.706,No. 2 Heating Oil
+1991-03-15,0.618,No. 2 Heating Oil
+1991-04-15,0.562,No. 2 Heating Oil
+1991-05-15,0.55,No. 2 Heating Oil
+1991-06-15,0.535,No. 2 Heating Oil
+1991-07-15,0.577,No. 2 Heating Oil
+1991-08-15,0.605,No. 2 Heating Oil
+1991-09-15,0.615,No. 2 Heating Oil
+1991-10-15,0.665,No. 2 Heating Oil
+1991-11-15,0.643,No. 2 Heating Oil
+1991-12-15,0.524,No. 2 Heating Oil
+1992-01-15,0.516,No. 2 Heating Oil
+1992-02-15,0.532,No. 2 Heating Oil
+1992-03-15,0.525,No. 2 Heating Oil
+1992-04-15,0.562,No. 2 Heating Oil
+1992-05-15,0.576,No. 2 Heating Oil
+1992-06-15,0.612,No. 2 Heating Oil
+1992-07-15,0.603,No. 2 Heating Oil
+1992-08-15,0.582,No. 2 Heating Oil
+1992-09-15,0.618,No. 2 Heating Oil
+1992-10-15,0.626,No. 2 Heating Oil
+1992-11-15,0.566,No. 2 Heating Oil
+1992-12-15,0.55,No. 2 Heating Oil
+1993-01-15,0.53,No. 2 Heating Oil
+1993-02-15,0.559,No. 2 Heating Oil
+1993-03-15,0.581,No. 2 Heating Oil
+1993-04-15,0.555,No. 2 Heating Oil
+1993-05-15,0.545,No. 2 Heating Oil
+1993-06-15,0.525,No. 2 Heating Oil
+1993-07-15,0.498,No. 2 Heating Oil
+1993-08-15,0.508,No. 2 Heating Oil
+1993-09-15,0.52,No. 2 Heating Oil
+1993-10-15,0.539,No. 2 Heating Oil
+1993-11-15,0.502,No. 2 Heating Oil
+1993-12-15,0.435,No. 2 Heating Oil
+1994-01-15,0.499,No. 2 Heating Oil
+1994-02-15,0.557,No. 2 Heating Oil
+1994-03-15,0.492,No. 2 Heating Oil
+1994-04-15,0.479,No. 2 Heating Oil
+1994-05-15,0.479,No. 2 Heating Oil
+1994-06-15,0.492,No. 2 Heating Oil
+1994-07-15,0.499,No. 2 Heating Oil
+1994-08-15,0.495,No. 2 Heating Oil
+1994-09-15,0.477,No. 2 Heating Oil
+1994-10-15,0.482,No. 2 Heating Oil
+1994-11-15,0.494,No. 2 Heating Oil
+1994-12-15,0.483,No. 2 Heating Oil
+1995-01-15,0.479,No. 2 Heating Oil
+1995-02-15,0.476,No. 2 Heating Oil
+1995-03-15,0.458,No. 2 Heating Oil
+1995-04-15,0.494,No. 2 Heating Oil
+1995-05-15,0.501,No. 2 Heating Oil
+1995-06-15,0.476,No. 2 Heating Oil
+1995-07-15,0.465,No. 2 Heating Oil
+1995-08-15,0.491,No. 2 Heating Oil
+1995-09-15,0.501,No. 2 Heating Oil
+1995-10-15,0.487,No. 2 Heating Oil
+1995-11-15,0.517,No. 2 Heating Oil
+1995-12-15,0.576,No. 2 Heating Oil
+1996-01-15,0.555,No. 2 Heating Oil
+1996-02-15,0.614,No. 2 Heating Oil
+1996-03-15,0.656,No. 2 Heating Oil
+1996-04-15,0.676,No. 2 Heating Oil
+1996-05-15,0.576,No. 2 Heating Oil
+1996-06-15,0.514,No. 2 Heating Oil
+1996-07-15,0.555,No. 2 Heating Oil
+1996-08-15,0.603,No. 2 Heating Oil
+1996-09-15,0.677,No. 2 Heating Oil
+1996-10-15,0.723,No. 2 Heating Oil
+1996-11-15,0.701,No. 2 Heating Oil
+1996-12-15,0.722,No. 2 Heating Oil
+1997-01-15,0.698,No. 2 Heating Oil
+1997-02-15,0.611,No. 2 Heating Oil
+1997-03-15,0.547,No. 2 Heating Oil
+1997-04-15,0.577,No. 2 Heating Oil
+1997-05-15,0.563,No. 2 Heating Oil
+1997-06-15,0.522,No. 2 Heating Oil
+1997-07-15,0.53,No. 2 Heating Oil
+1997-08-15,0.54,No. 2 Heating Oil
+1997-09-15,0.532,No. 2 Heating Oil
+1997-10-15,0.572,No. 2 Heating Oil
+1997-11-15,0.564,No. 2 Heating Oil
+1997-12-15,0.511,No. 2 Heating Oil
+1998-01-15,0.466,No. 2 Heating Oil
+1998-02-15,0.443,No. 2 Heating Oil
+1998-03-15,0.421,No. 2 Heating Oil
+1998-04-15,0.43,No. 2 Heating Oil
+1998-05-15,0.411,No. 2 Heating Oil
+1998-06-15,0.378,No. 2 Heating Oil
+1998-07-15,0.362,No. 2 Heating Oil
+1998-08-15,0.345,No. 2 Heating Oil
+1998-09-15,0.403,No. 2 Heating Oil
+1998-10-15,0.385,No. 2 Heating Oil
+1998-11-15,0.359,No. 2 Heating Oil
+1998-12-15,0.313,No. 2 Heating Oil
+1999-01-15,0.335,No. 2 Heating Oil
+1999-02-15,0.304,No. 2 Heating Oil
+1999-03-15,0.388,No. 2 Heating Oil
+1999-04-15,0.431,No. 2 Heating Oil
+1999-05-15,0.423,No. 2 Heating Oil
+1999-06-15,0.433,No. 2 Heating Oil
+1999-07-15,0.5,No. 2 Heating Oil
+1999-08-15,0.548,No. 2 Heating Oil
+1999-09-15,0.602,No. 2 Heating Oil
+1999-10-15,0.584,No. 2 Heating Oil
+1999-11-15,0.648,No. 2 Heating Oil
+1999-12-15,0.671,No. 2 Heating Oil
+2000-01-15,0.915,No. 2 Heating Oil
+2000-02-15,0.937,No. 2 Heating Oil
+2000-03-15,0.773,No. 2 Heating Oil
+2000-04-15,0.749,No. 2 Heating Oil
+2000-05-15,0.76,No. 2 Heating Oil
+2000-06-15,0.782,No. 2 Heating Oil
+2000-07-15,0.781,No. 2 Heating Oil
+2000-08-15,0.893,No. 2 Heating Oil
+2000-09-15,0.988,No. 2 Heating Oil
+2000-10-15,0.977,No. 2 Heating Oil
+2000-11-15,1.032,No. 2 Heating Oil
+2000-12-15,0.943,No. 2 Heating Oil
+2001-01-15,0.845,No. 2 Heating Oil
+2001-02-15,0.785,No. 2 Heating Oil
+2001-03-15,0.741,No. 2 Heating Oil
+2001-04-15,0.782,No. 2 Heating Oil
+2001-05-15,0.772,No. 2 Heating Oil
+2001-06-15,0.756,No. 2 Heating Oil
+2001-07-15,0.698,No. 2 Heating Oil
+2001-08-15,0.734,No. 2 Heating Oil
+2001-09-15,0.731,No. 2 Heating Oil
+2001-10-15,0.628,No. 2 Heating Oil
+2001-11-15,0.548,No. 2 Heating Oil
+2001-12-15,0.524,No. 2 Heating Oil
+2002-01-15,0.536,No. 2 Heating Oil
+2002-02-15,0.541,No. 2 Heating Oil
+2002-03-15,0.636,No. 2 Heating Oil
+2002-04-15,0.667,No. 2 Heating Oil
+2002-05-15,0.666,No. 2 Heating Oil
+2002-06-15,0.646,No. 2 Heating Oil
+2002-07-15,0.679,No. 2 Heating Oil
+2002-08-15,0.701,No. 2 Heating Oil
+2002-09-15,0.773,No. 2 Heating Oil
+2002-10-15,0.768,No. 2 Heating Oil
+2002-11-15,0.72,No. 2 Heating Oil
+2002-12-15,0.821,No. 2 Heating Oil
+2003-01-15,0.905,No. 2 Heating Oil
+2003-02-15,1.129,No. 2 Heating Oil
+2003-03-15,0.988,No. 2 Heating Oil
+2003-04-15,0.796,No. 2 Heating Oil
+2003-05-15,0.741,No. 2 Heating Oil
+2003-06-15,0.759,No. 2 Heating Oil
+2003-07-15,0.786,No. 2 Heating Oil
+2003-08-15,0.816,No. 2 Heating Oil
+2003-09-15,0.736,No. 2 Heating Oil
+2003-10-15,0.82,No. 2 Heating Oil
+2003-11-15,0.835,No. 2 Heating Oil
+2003-12-15,0.891,No. 2 Heating Oil
+2004-01-15,0.984,No. 2 Heating Oil
+2004-02-15,0.913,No. 2 Heating Oil
+2004-03-15,0.909,No. 2 Heating Oil
+2004-04-15,0.922,No. 2 Heating Oil
+2004-05-15,1.018,No. 2 Heating Oil
+2004-06-15,0.994,No. 2 Heating Oil
+2004-07-15,1.09,No. 2 Heating Oil
+2004-08-15,1.167,No. 2 Heating Oil
+2004-09-15,1.257,No. 2 Heating Oil
+2004-10-15,1.485,No. 2 Heating Oil
+2004-11-15,1.384,No. 2 Heating Oil
+2004-12-15,1.275,No. 2 Heating Oil
+2005-01-15,1.316,No. 2 Heating Oil
+2005-02-15,1.343,No. 2 Heating Oil
+2005-03-15,1.556,No. 2 Heating Oil
+2005-04-15,1.523,No. 2 Heating Oil
+2005-05-15,1.413,No. 2 Heating Oil
+2005-06-15,1.612,No. 2 Heating Oil
+2005-07-15,1.64,No. 2 Heating Oil
+2005-08-15,1.804,No. 2 Heating Oil
+2005-09-15,1.963,No. 2 Heating Oil
+2005-10-15,1.891,No. 2 Heating Oil
+2005-11-15,1.689,No. 2 Heating Oil
+2005-12-15,1.707,No. 2 Heating Oil
+2006-01-15,1.751,No. 2 Heating Oil
+2006-02-15,1.639,No. 2 Heating Oil
+2006-03-15,1.777,No. 2 Heating Oil
+2006-04-15,1.978,No. 2 Heating Oil
+2006-05-15,1.972,No. 2 Heating Oil
+2006-06-15,1.925,No. 2 Heating Oil
+2006-07-15,1.935,No. 2 Heating Oil
+2006-08-15,1.984,No. 2 Heating Oil
+2006-09-15,1.699,No. 2 Heating Oil
+2006-10-15,1.648,No. 2 Heating Oil
+2006-11-15,1.648,No. 2 Heating Oil
+2006-12-15,1.684,No. 2 Heating Oil
+2007-01-15,1.528,No. 2 Heating Oil
+2007-02-15,1.693,No. 2 Heating Oil
+2007-03-15,1.742,No. 2 Heating Oil
+2007-04-15,1.864,No. 2 Heating Oil
+2007-05-15,1.884,No. 2 Heating Oil
+2007-06-15,1.991,No. 2 Heating Oil
+2007-07-15,2.072,No. 2 Heating Oil
+2007-08-15,1.984,No. 2 Heating Oil
+2007-09-15,2.179,No. 2 Heating Oil
+2007-10-15,2.282,No. 2 Heating Oil
+2007-11-15,2.586,No. 2 Heating Oil
+2007-12-15,2.574,No. 2 Heating Oil
+2008-01-15,2.558,No. 2 Heating Oil
+2008-02-15,2.644,No. 2 Heating Oil
+2008-03-15,3.066,No. 2 Heating Oil
+2008-04-15,3.226,No. 2 Heating Oil
+2008-05-15,3.615,No. 2 Heating Oil
+2008-06-15,3.801,No. 2 Heating Oil
+2008-07-15,3.759,No. 2 Heating Oil
+2008-08-15,3.169,No. 2 Heating Oil
+2008-09-15,2.911,No. 2 Heating Oil
+2008-10-15,2.239,No. 2 Heating Oil
+2008-11-15,1.843,No. 2 Heating Oil
+2008-12-15,1.402,No. 2 Heating Oil
+2009-01-15,1.465,No. 2 Heating Oil
+2009-02-15,1.279,No. 2 Heating Oil
+2009-03-15,1.277,No. 2 Heating Oil
+2009-04-15,1.357,No. 2 Heating Oil
+2009-05-15,1.473,No. 2 Heating Oil
+2009-06-15,1.747,No. 2 Heating Oil
+2009-07-15,1.628,No. 2 Heating Oil
+2009-08-15,1.865,No. 2 Heating Oil
+2009-09-15,1.728,No. 2 Heating Oil
+2009-10-15,1.929,No. 2 Heating Oil
+2009-11-15,1.981,No. 2 Heating Oil
+2009-12-15,1.968,No. 2 Heating Oil
+2010-01-15,2.046,No. 2 Heating Oil
+2010-02-15,1.978,No. 2 Heating Oil
+2010-03-15,2.083,No. 2 Heating Oil
+2010-04-15,2.204,No. 2 Heating Oil
+2010-05-15,2.04,No. 2 Heating Oil
+2010-06-15,2.032,No. 2 Heating Oil
+2010-07-15,1.979,No. 2 Heating Oil
+2010-08-15,2.016,No. 2 Heating Oil
+2010-09-15,2.09,No. 2 Heating Oil
+2010-10-15,2.242,No. 2 Heating Oil
+2010-11-15,2.32,No. 2 Heating Oil
+2010-12-15,2.468,No. 2 Heating Oil
+2011-01-15,2.604,No. 2 Heating Oil
+2011-02-15,2.77,No. 2 Heating Oil
+2011-03-15,3.034,No. 2 Heating Oil
+2011-04-15,3.196,No. 2 Heating Oil
+2011-05-15,2.952,No. 2 Heating Oil
+2011-06-15,2.967,No. 2 Heating Oil
+2011-07-15,3.068,No. 2 Heating Oil
+2011-08-15,2.946,No. 2 Heating Oil
+2011-09-15,2.921,No. 2 Heating Oil
+2011-10-15,2.953,No. 2 Heating Oil
+2011-11-15,3.054,No. 2 Heating Oil
+2011-12-15,2.891,No. 2 Heating Oil
+2012-01-15,3.054,No. 2 Heating Oil
+2012-02-15,3.196,No. 2 Heating Oil
+2012-03-15,3.217,No. 2 Heating Oil
+2012-04-15,3.15,No. 2 Heating Oil
+2012-05-15,2.913,No. 2 Heating Oil
+2012-06-15,2.619,No. 2 Heating Oil
+2012-07-15,2.813,No. 2 Heating Oil
+2012-08-15,3.045,No. 2 Heating Oil
+2012-09-15,3.134,No. 2 Heating Oil
+2012-10-15,3.14,No. 2 Heating Oil
+2012-11-15,3.009,No. 2 Heating Oil
+2012-12-15,2.995,No. 2 Heating Oil
+2013-01-15,3.068,No. 2 Heating Oil
+2013-02-15,3.168,No. 2 Heating Oil
+2013-03-15,2.943,No. 2 Heating Oil
+2013-04-15,2.742,No. 2 Heating Oil
+2013-05-15,2.739,No. 2 Heating Oil
+2013-06-15,2.752,No. 2 Heating Oil
+2013-07-15,2.885,No. 2 Heating Oil
+2013-08-15,2.958,No. 2 Heating Oil
+2013-09-15,2.961,No. 2 Heating Oil
+2013-10-15,2.94,No. 2 Heating Oil
+2013-11-15,2.923,No. 2 Heating Oil
+2013-12-15,3.032,No. 2 Heating Oil
+2014-01-15,3.063,No. 2 Heating Oil
+2014-02-15,3.061,No. 2 Heating Oil
+2014-03-15,2.912,No. 2 Heating Oil
+2014-04-15,2.888,No. 2 Heating Oil
+2014-05-15,2.86,No. 2 Heating Oil
+2014-06-15,2.882,No. 2 Heating Oil
+2014-07-15,2.776,No. 2 Heating Oil
+2014-08-15,2.753,No. 2 Heating Oil
+2014-09-15,2.633,No. 2 Heating Oil
+2014-10-15,2.424,No. 2 Heating Oil
+2014-11-15,2.249,No. 2 Heating Oil
+2014-12-15,1.856,No. 2 Heating Oil
+2015-01-15,1.616,No. 2 Heating Oil
+2015-02-15,1.873,No. 2 Heating Oil
+2015-03-15,1.632,No. 2 Heating Oil
+2015-04-15,1.722,No. 2 Heating Oil
+2015-05-15,1.832,No. 2 Heating Oil
+2015-06-15,1.762,No. 2 Heating Oil
+2015-07-15,1.557,No. 2 Heating Oil
+2015-08-15,1.387,No. 2 Heating Oil
+2015-09-15,1.423,No. 2 Heating Oil
+2015-10-15,1.404,No. 2 Heating Oil
+2015-11-15,1.316,No. 2 Heating Oil
+2015-12-15,1.037,No. 2 Heating Oil
+2016-01-15,0.939,No. 2 Heating Oil
+2016-02-15,0.972,No. 2 Heating Oil
+2016-03-15,1.132,No. 2 Heating Oil
+2016-04-15,1.188,No. 2 Heating Oil
+2016-05-15,1.356,No. 2 Heating Oil
+2016-06-15,1.416,No. 2 Heating Oil
+2016-07-15,1.292,No. 2 Heating Oil
+2016-08-15,1.325,No. 2 Heating Oil
+2016-09-15,1.351,No. 2 Heating Oil
+2016-10-15,1.488,No. 2 Heating Oil
+2016-11-15,1.39,No. 2 Heating Oil
+2016-12-15,1.553,No. 2 Heating Oil
+2017-01-15,1.551,No. 2 Heating Oil
+2017-02-15,1.562,No. 2 Heating Oil
+2017-03-15,1.492,No. 2 Heating Oil
+2017-04-15,1.523,No. 2 Heating Oil
+2017-05-15,1.454,No. 2 Heating Oil
+2017-06-15,1.332,No. 2 Heating Oil
+2017-07-15,1.423,No. 2 Heating Oil
+2017-08-15,1.519,No. 2 Heating Oil
+2017-09-15,1.708,No. 2 Heating Oil
+2017-10-15,1.707,No. 2 Heating Oil
+2017-11-15,1.823,No. 2 Heating Oil
+2017-12-15,1.863,No. 2 Heating Oil
+2018-01-15,2.017,No. 2 Heating Oil
+2018-02-15,1.853,No. 2 Heating Oil
+2018-03-15,1.874,No. 2 Heating Oil
+2018-04-15,2.037,No. 2 Heating Oil
+2018-05-15,2.187,No. 2 Heating Oil
+2018-06-15,2.112,No. 2 Heating Oil
+2018-07-15,2.108,No. 2 Heating Oil
+2018-08-15,2.125,No. 2 Heating Oil
+2018-09-15,2.225,No. 2 Heating Oil
+2018-10-15,2.313,No. 2 Heating Oil
+2018-11-15,2.033,No. 2 Heating Oil
+2018-12-15,1.784,No. 2 Heating Oil
+2019-01-15,1.819,No. 2 Heating Oil
+2019-02-15,1.931,No. 2 Heating Oil
+2019-03-15,1.965,No. 2 Heating Oil
+2019-04-15,2.036,No. 2 Heating Oil
+2019-05-15,2.006,No. 2 Heating Oil
+2019-06-15,1.82,No. 2 Heating Oil
+2019-07-15,1.888,No. 2 Heating Oil
+2019-08-15,1.795,No. 2 Heating Oil
+2019-09-15,1.919,No. 2 Heating Oil
+2019-10-15,1.92,No. 2 Heating Oil
+2019-11-15,1.915,No. 2 Heating Oil
+2019-12-15,1.966,No. 2 Heating Oil
+2020-01-15,1.829,No. 2 Heating Oil
+2020-02-15,1.589,No. 2 Heating Oil
+2020-03-15,1.156,No. 2 Heating Oil
+2020-04-15,0.852,No. 2 Heating Oil
+2020-05-15,0.843,No. 2 Heating Oil
+2020-06-15,1.073,No. 2 Heating Oil
+2020-07-15,1.187,No. 2 Heating Oil
+2020-08-15,1.18,No. 2 Heating Oil
+2020-09-15,1.069,No. 2 Heating Oil
+2020-10-15,1.099,No. 2 Heating Oil
+2020-11-15,1.16,No. 2 Heating Oil
+2020-12-15,1.366,No. 2 Heating Oil
+2021-01-15,1.477,No. 2 Heating Oil
+2021-02-15,1.67,No. 2 Heating Oil
+2021-03-15,1.704,No. 2 Heating Oil
+2021-04-15,1.704,No. 2 Heating Oil
+2021-05-15,1.834,No. 2 Heating Oil
+2021-06-15,1.911,No. 2 Heating Oil
+2021-07-15,1.947,No. 2 Heating Oil
+2021-08-15,1.878,No. 2 Heating Oil
+2021-09-15,2.053,No. 2 Heating Oil
+2021-10-15,2.382,No. 2 Heating Oil
+2021-11-15,2.253,No. 2 Heating Oil
+2021-12-15,2.118,No. 2 Heating Oil
+2022-01-15,2.481,No. 2 Heating Oil
+2022-02-15,2.737,No. 2 Heating Oil
+2022-03-15,3.635,No. 2 Heating Oil
+2022-04-15,3.952,No. 2 Heating Oil
+2022-05-15,4.497,No. 2 Heating Oil
+2022-06-15,4.246,No. 2 Heating Oil
+2022-07-15,3.552,No. 2 Heating Oil
+2022-08-15,3.437,No. 2 Heating Oil
+2022-09-15,3.257,No. 2 Heating Oil
+2022-10-15,4.163,No. 2 Heating Oil
+2022-11-15,3.821,No. 2 Heating Oil
+2022-12-15,2.937,No. 2 Heating Oil
+2023-01-15,3.085,No. 2 Heating Oil
+2023-02-15,2.645,No. 2 Heating Oil
+2023-03-15,2.571,No. 2 Heating Oil
+2023-04-15,2.424,No. 2 Heating Oil
+2023-05-15,2.181,No. 2 Heating Oil
+2023-06-15,2.278,No. 2 Heating Oil
+2023-07-15,2.498,No. 2 Heating Oil
+2023-08-15,2.939,No. 2 Heating Oil
+2023-09-15,3.168,No. 2 Heating Oil
+2023-10-15,3.002,No. 2 Heating Oil
+2023-11-15,2.811,No. 2 Heating Oil
+2023-12-15,2.54,No. 2 Heating Oil
+2024-01-15,2.59,No. 2 Heating Oil
+2024-02-15,2.703,No. 2 Heating Oil
+2024-03-15,2.601,No. 2 Heating Oil
+2024-04-15,2.536,No. 2 Heating Oil
+2024-05-15,2.345,No. 2 Heating Oil
+2024-06-15,2.351,No. 2 Heating Oil
+2024-07-15,2.351,No. 2 Heating Oil
+2024-08-15,2.163,No. 2 Heating Oil
+2024-09-15,1.693,No. 2 Heating Oil
+2024-10-15,1.905,No. 2 Heating Oil
+2024-11-15,2.14,No. 2 Heating Oil
+2024-12-15,2.134,No. 2 Heating Oil
+2025-01-15,2.407,No. 2 Heating Oil
+2025-02-15,2.346,No. 2 Heating Oil
+2025-03-15,2.148,No. 2 Heating Oil
+2025-04-15,2.031,No. 2 Heating Oil
+2025-05-15,1.984,No. 2 Heating Oil
+2025-06-15,2.174,No. 2 Heating Oil
+2006-06-15,2.091,ULS Diesel
+2006-07-15,2.217,ULS Diesel
+2006-08-15,2.247,ULS Diesel
+2006-09-15,1.81,ULS Diesel
+2006-10-15,1.794,ULS Diesel
+2006-11-15,1.811,ULS Diesel
+2006-12-15,1.833,ULS Diesel
+2007-01-15,1.63,ULS Diesel
+2007-02-15,1.759,ULS Diesel
+2007-03-15,1.891,ULS Diesel
+2007-04-15,2.053,ULS Diesel
+2007-05-15,2.044,ULS Diesel
+2007-06-15,2.12,ULS Diesel
+2007-07-15,2.146,ULS Diesel
+2007-08-15,2.106,ULS Diesel
+2007-09-15,2.32,ULS Diesel
+2007-10-15,2.417,ULS Diesel
+2007-11-15,2.7,ULS Diesel
+2007-12-15,2.631,ULS Diesel
+2008-01-15,2.59,ULS Diesel
+2008-02-15,2.774,ULS Diesel
+2008-03-15,3.253,ULS Diesel
+2008-04-15,3.443,ULS Diesel
+2008-05-15,3.821,ULS Diesel
+2008-06-15,3.887,ULS Diesel
+2008-07-15,3.845,ULS Diesel
+2008-08-15,3.273,ULS Diesel
+2008-09-15,3.041,ULS Diesel
+2008-10-15,2.397,ULS Diesel
+2008-11-15,1.923,ULS Diesel
+2008-12-15,1.436,ULS Diesel
+2009-01-15,1.496,ULS Diesel
+2009-02-15,1.306,ULS Diesel
+2009-03-15,1.338,ULS Diesel
+2009-04-15,1.449,ULS Diesel
+2009-05-15,1.52,ULS Diesel
+2009-06-15,1.82,ULS Diesel
+2009-07-15,1.722,ULS Diesel
+2009-08-15,1.927,ULS Diesel
+2009-09-15,1.795,ULS Diesel
+2009-10-15,1.982,ULS Diesel
+2009-11-15,1.998,ULS Diesel
+2009-12-15,1.98,ULS Diesel
+2010-01-15,2.066,ULS Diesel
+2010-02-15,2.035,ULS Diesel
+2010-03-15,2.159,ULS Diesel
+2010-04-15,2.284,ULS Diesel
+2010-05-15,2.136,ULS Diesel
+2010-06-15,2.108,ULS Diesel
+2010-07-15,2.066,ULS Diesel
+2010-08-15,2.122,ULS Diesel
+2010-09-15,2.175,ULS Diesel
+2010-10-15,2.301,ULS Diesel
+2010-11-15,2.377,ULS Diesel
+2010-12-15,2.5,ULS Diesel
+2011-01-15,2.642,ULS Diesel
+2011-02-15,2.84,ULS Diesel
+2011-03-15,3.131,ULS Diesel
+2011-04-15,3.271,ULS Diesel
+2011-05-15,3.035,ULS Diesel
+2011-06-15,3.054,ULS Diesel
+2011-07-15,3.17,ULS Diesel
+2011-08-15,3.01,ULS Diesel
+2011-09-15,2.98,ULS Diesel
+2011-10-15,3.008,ULS Diesel
+2011-11-15,3.095,ULS Diesel
+2011-12-15,2.937,ULS Diesel
+2012-01-15,3.08,ULS Diesel
+2012-02-15,3.223,ULS Diesel
+2012-03-15,3.302,ULS Diesel
+2012-04-15,3.242,ULS Diesel
+2012-05-15,2.987,ULS Diesel
+2012-06-15,2.71,ULS Diesel
+2012-07-15,2.921,ULS Diesel
+2012-08-15,3.179,ULS Diesel
+2012-09-15,3.229,ULS Diesel
+2012-10-15,3.236,ULS Diesel
+2012-11-15,3.18,ULS Diesel
+2012-12-15,3.07,ULS Diesel
+2013-01-15,3.103,ULS Diesel
+2013-02-15,3.237,ULS Diesel
+2013-03-15,3.037,ULS Diesel
+2013-04-15,2.9,ULS Diesel
+2013-05-15,2.888,ULS Diesel
+2013-06-15,2.891,ULS Diesel
+2013-07-15,3.018,ULS Diesel
+2013-08-15,3.068,ULS Diesel
+2013-09-15,3.048,ULS Diesel
+2013-10-15,2.995,ULS Diesel
+2013-11-15,2.938,ULS Diesel
+2013-12-15,3.045,ULS Diesel
+2014-01-15,3.117,ULS Diesel
+2014-02-15,3.227,ULS Diesel
+2014-03-15,2.993,ULS Diesel
+2014-04-15,2.958,ULS Diesel
+2014-05-15,2.936,ULS Diesel
+2014-06-15,2.962,ULS Diesel
+2014-07-15,2.879,ULS Diesel
+2014-08-15,2.85,ULS Diesel
+2014-09-15,2.74,ULS Diesel
+2014-10-15,2.532,ULS Diesel
+2014-11-15,2.43,ULS Diesel
+2014-12-15,2.034,ULS Diesel
+2015-01-15,1.678,ULS Diesel
+2015-02-15,1.991,ULS Diesel
+2015-03-15,1.856,ULS Diesel
+2015-04-15,1.843,ULS Diesel
+2015-05-15,1.965,ULS Diesel
+2015-06-15,1.888,ULS Diesel
+2015-07-15,1.684,ULS Diesel
+2015-08-15,1.516,ULS Diesel
+2015-09-15,1.516,ULS Diesel
+2015-10-15,1.472,ULS Diesel
+2015-11-15,1.413,ULS Diesel
+2015-12-15,1.138,ULS Diesel
+2016-01-15,0.979,ULS Diesel
+2016-02-15,1.036,ULS Diesel
+2016-03-15,1.19,ULS Diesel
+2016-04-15,1.247,ULS Diesel
+2016-05-15,1.423,ULS Diesel
+2016-06-15,1.491,ULS Diesel
+2016-07-15,1.37,ULS Diesel
+2016-08-15,1.399,ULS Diesel
+2016-09-15,1.418,ULS Diesel
+2016-10-15,1.559,ULS Diesel
+2016-11-15,1.463,ULS Diesel
+2016-12-15,1.642,ULS Diesel
+2017-01-15,1.623,ULS Diesel
+2017-02-15,1.624,ULS Diesel
+2017-03-15,1.528,ULS Diesel
+2017-04-15,1.586,ULS Diesel
+2017-05-15,1.514,ULS Diesel
+2017-06-15,1.417,ULS Diesel
+2017-07-15,1.521,ULS Diesel
+2017-08-15,1.631,ULS Diesel
+2017-09-15,1.791,ULS Diesel
+2017-10-15,1.799,ULS Diesel
+2017-11-15,1.916,ULS Diesel
+2017-12-15,1.944,ULS Diesel
+2018-01-15,2.074,ULS Diesel
+2018-02-15,1.937,ULS Diesel
+2018-03-15,1.93,ULS Diesel
+2018-04-15,2.079,ULS Diesel
+2018-05-15,2.23,ULS Diesel
+2018-06-15,2.146,ULS Diesel
+2018-07-15,2.14,ULS Diesel
+2018-08-15,2.153,ULS Diesel
+2018-09-15,2.252,ULS Diesel
+2018-10-15,2.332,ULS Diesel
+2018-11-15,2.048,ULS Diesel
+2018-12-15,1.801,ULS Diesel
+2019-01-15,1.846,ULS Diesel
+2019-02-15,1.962,ULS Diesel
+2019-03-15,1.988,ULS Diesel
+2019-04-15,2.062,ULS Diesel
+2019-05-15,2.031,ULS Diesel
+2019-06-15,1.846,ULS Diesel
+2019-07-15,1.92,ULS Diesel
+2019-08-15,1.824,ULS Diesel
+2019-09-15,1.935,ULS Diesel
+2019-10-15,1.937,ULS Diesel
+2019-11-15,1.933,ULS Diesel
+2019-12-15,1.988,ULS Diesel
+2020-01-15,1.848,ULS Diesel
+2020-02-15,1.622,ULS Diesel
+2020-03-15,1.19,ULS Diesel
+2020-04-15,0.88,ULS Diesel
+2020-05-15,0.887,ULS Diesel
+2020-06-15,1.124,ULS Diesel
+2020-07-15,1.24,ULS Diesel
+2020-08-15,1.226,ULS Diesel
+2020-09-15,1.122,ULS Diesel
+2020-10-15,1.154,ULS Diesel
+2020-11-15,1.241,ULS Diesel
+2020-12-15,1.444,ULS Diesel
+2021-01-15,1.575,ULS Diesel
+2021-02-15,1.788,ULS Diesel
+2021-03-15,1.853,ULS Diesel
+2021-04-15,1.861,ULS Diesel
+2021-05-15,2.024,ULS Diesel
+2021-06-15,2.121,ULS Diesel
+2021-07-15,2.127,ULS Diesel
+2021-08-15,2.068,ULS Diesel
+2021-09-15,2.201,ULS Diesel
+2021-10-15,2.523,ULS Diesel
+2021-11-15,2.391,ULS Diesel
+2021-12-15,2.251,ULS Diesel
+2022-01-15,2.616,ULS Diesel
+2022-02-15,2.872,ULS Diesel
+2022-03-15,3.78,ULS Diesel
+2022-04-15,4.042,ULS Diesel
+2022-05-15,4.646,ULS Diesel
+2022-06-15,4.362,ULS Diesel
+2022-07-15,3.696,ULS Diesel
+2022-08-15,3.596,ULS Diesel
+2022-09-15,3.435,ULS Diesel
+2022-10-15,4.345,ULS Diesel
+2022-11-15,4.063,ULS Diesel
+2022-12-15,3.117,ULS Diesel
+2023-01-15,3.267,ULS Diesel
+2023-02-15,2.832,ULS Diesel
+2023-03-15,2.747,ULS Diesel
+2023-04-15,2.593,ULS Diesel
+2023-05-15,2.346,ULS Diesel
+2023-06-15,2.432,ULS Diesel
+2023-07-15,2.671,ULS Diesel
+2023-08-15,3.117,ULS Diesel
+2023-09-15,3.325,ULS Diesel
+2023-10-15,3.114,ULS Diesel
+2023-11-15,2.905,ULS Diesel
+2023-12-15,2.632,ULS Diesel
+2024-01-15,2.681,ULS Diesel
+2024-02-15,2.771,ULS Diesel
+2024-03-15,2.674,ULS Diesel
+2024-04-15,2.62,ULS Diesel
+2024-05-15,2.43,ULS Diesel
+2024-06-15,2.426,ULS Diesel
+2024-07-15,2.473,ULS Diesel
+2024-08-15,2.28,ULS Diesel
+2024-09-15,2.11,ULS Diesel
+2024-10-15,2.217,ULS Diesel
+2024-11-15,2.226,ULS Diesel
+2024-12-15,2.202,ULS Diesel
+2025-01-15,2.484,ULS Diesel
+2025-02-15,2.471,ULS Diesel
+2025-03-15,2.246,ULS Diesel
+2025-04-15,2.131,ULS Diesel
+2025-05-15,2.082,ULS Diesel
+2025-06-15,2.281,ULS Diesel
+1990-05-15,0.515,Jet Fuel
+1990-06-15,0.494,Jet Fuel
+1990-07-15,0.535,Jet Fuel
+1990-08-15,0.791,Jet Fuel
+1990-09-15,1.012,Jet Fuel
+1990-10-15,1.196,Jet Fuel
+1990-11-15,0.971,Jet Fuel
+1990-12-15,0.803,Jet Fuel
+1991-01-15,0.741,Jet Fuel
+1991-02-15,0.637,Jet Fuel
+1991-03-15,0.558,Jet Fuel
+1991-04-15,0.552,Jet Fuel
+1991-05-15,0.569,Jet Fuel
+1991-06-15,0.547,Jet Fuel
+1991-07-15,0.586,Jet Fuel
+1991-08-15,0.623,Jet Fuel
+1991-09-15,0.635,Jet Fuel
+1991-10-15,0.671,Jet Fuel
+1991-11-15,0.645,Jet Fuel
+1991-12-15,0.522,Jet Fuel
+1992-01-15,0.509,Jet Fuel
+1992-02-15,0.543,Jet Fuel
+1992-03-15,0.514,Jet Fuel
+1992-04-15,0.543,Jet Fuel
+1992-05-15,0.579,Jet Fuel
+1992-06-15,0.615,Jet Fuel
+1992-07-15,0.611,Jet Fuel
+1992-08-15,0.59,Jet Fuel
+1992-09-15,0.623,Jet Fuel
+1992-10-15,0.621,Jet Fuel
+1992-11-15,0.561,Jet Fuel
+1992-12-15,0.544,Jet Fuel
+1993-01-15,0.534,Jet Fuel
+1993-02-15,0.553,Jet Fuel
+1993-03-15,0.558,Jet Fuel
+1993-04-15,0.551,Jet Fuel
+1993-05-15,0.553,Jet Fuel
+1993-06-15,0.526,Jet Fuel
+1993-07-15,0.494,Jet Fuel
+1993-08-15,0.501,Jet Fuel
+1993-09-15,0.535,Jet Fuel
+1993-10-15,0.568,Jet Fuel
+1993-11-15,0.533,Jet Fuel
+1993-12-15,0.446,Jet Fuel
+1994-01-15,0.528,Jet Fuel
+1994-02-15,0.501,Jet Fuel
+1994-03-15,0.451,Jet Fuel
+1994-04-15,0.469,Jet Fuel
+1994-05-15,0.472,Jet Fuel
+1994-06-15,0.493,Jet Fuel
+1994-07-15,0.509,Jet Fuel
+1994-08-15,0.498,Jet Fuel
+1994-09-15,0.49,Jet Fuel
+1994-10-15,0.509,Jet Fuel
+1994-11-15,0.513,Jet Fuel
+1994-12-15,0.487,Jet Fuel
+1995-01-15,0.472,Jet Fuel
+1995-02-15,0.467,Jet Fuel
+1995-03-15,0.449,Jet Fuel
+1995-04-15,0.5,Jet Fuel
+1995-05-15,0.511,Jet Fuel
+1995-06-15,0.478,Jet Fuel
+1995-07-15,0.467,Jet Fuel
+1995-08-15,0.496,Jet Fuel
+1995-09-15,0.513,Jet Fuel
+1995-10-15,0.502,Jet Fuel
+1995-11-15,0.524,Jet Fuel
+1995-12-15,0.553,Jet Fuel
+1996-01-15,0.55,Jet Fuel
+1996-02-15,0.557,Jet Fuel
+1996-03-15,0.586,Jet Fuel
+1996-04-15,0.617,Jet Fuel
+1996-05-15,0.557,Jet Fuel
+1996-06-15,0.516,Jet Fuel
+1996-07-15,0.556,Jet Fuel
+1996-08-15,0.615,Jet Fuel
+1996-09-15,0.682,Jet Fuel
+1996-10-15,0.703,Jet Fuel
+1996-11-15,0.696,Jet Fuel
+1996-12-15,0.693,Jet Fuel
+1997-01-15,0.68,Jet Fuel
+1997-02-15,0.619,Jet Fuel
+1997-03-15,0.557,Jet Fuel
+1997-04-15,0.541,Jet Fuel
+1997-05-15,0.549,Jet Fuel
+1997-06-15,0.523,Jet Fuel
+1997-07-15,0.536,Jet Fuel
+1997-08-15,0.559,Jet Fuel
+1997-09-15,0.541,Jet Fuel
+1997-10-15,0.571,Jet Fuel
+1997-11-15,0.549,Jet Fuel
+1997-12-15,0.496,Jet Fuel
+1998-01-15,0.476,Jet Fuel
+1998-02-15,0.449,Jet Fuel
+1998-03-15,0.413,Jet Fuel
+1998-04-15,0.426,Jet Fuel
+1998-05-15,0.416,Jet Fuel
+1998-06-15,0.389,Jet Fuel
+1998-07-15,0.386,Jet Fuel
+1998-08-15,0.372,Jet Fuel
+1998-09-15,0.42,Jet Fuel
+1998-10-15,0.42,Jet Fuel
+1998-11-15,0.371,Jet Fuel
+1998-12-15,0.304,Jet Fuel
+1999-01-15,0.334,Jet Fuel
+1999-02-15,0.309,Jet Fuel
+1999-03-15,0.378,Jet Fuel
+1999-04-15,0.43,Jet Fuel
+1999-05-15,0.415,Jet Fuel
+1999-06-15,0.44,Jet Fuel
+1999-07-15,0.512,Jet Fuel
+1999-08-15,0.564,Jet Fuel
+1999-09-15,0.614,Jet Fuel
+1999-10-15,0.595,Jet Fuel
+1999-11-15,0.661,Jet Fuel
+1999-12-15,0.701,Jet Fuel
+2000-01-15,0.781,Jet Fuel
+2000-02-15,0.78,Jet Fuel
+2000-03-15,0.771,Jet Fuel
+2000-04-15,0.719,Jet Fuel
+2000-05-15,0.762,Jet Fuel
+2000-06-15,0.785,Jet Fuel
+2000-07-15,0.796,Jet Fuel
+2000-08-15,0.9,Jet Fuel
+2000-09-15,1.017,Jet Fuel
+2000-10-15,0.982,Jet Fuel
+2000-11-15,1.028,Jet Fuel
+2000-12-15,0.863,Jet Fuel
+2001-01-15,0.87,Jet Fuel
+2001-02-15,0.815,Jet Fuel
+2001-03-15,0.748,Jet Fuel
+2001-04-15,0.77,Jet Fuel
+2001-05-15,0.821,Jet Fuel
+2001-06-15,0.767,Jet Fuel
+2001-07-15,0.711,Jet Fuel
+2001-08-15,0.764,Jet Fuel
+2001-09-15,0.738,Jet Fuel
+2001-10-15,0.622,Jet Fuel
+2001-11-15,0.543,Jet Fuel
+2001-12-15,0.515,Jet Fuel
+2002-01-15,0.533,Jet Fuel
+2002-02-15,0.551,Jet Fuel
+2002-03-15,0.63,Jet Fuel
+2002-04-15,0.669,Jet Fuel
+2002-05-15,0.666,Jet Fuel
+2002-06-15,0.653,Jet Fuel
+2002-07-15,0.691,Jet Fuel
+2002-08-15,0.722,Jet Fuel
+2002-09-15,0.8,Jet Fuel
+2002-10-15,0.79,Jet Fuel
+2002-11-15,0.708,Jet Fuel
+2002-12-15,0.811,Jet Fuel
+2003-01-15,0.887,Jet Fuel
+2003-02-15,1.055,Jet Fuel
+2003-03-15,0.893,Jet Fuel
+2003-04-15,0.743,Jet Fuel
+2003-05-15,0.714,Jet Fuel
+2003-06-15,0.748,Jet Fuel
+2003-07-15,0.78,Jet Fuel
+2003-08-15,0.823,Jet Fuel
+2003-09-15,0.738,Jet Fuel
+2003-10-15,0.82,Jet Fuel
+2003-11-15,0.831,Jet Fuel
+2003-12-15,0.876,Jet Fuel
+2004-01-15,0.998,Jet Fuel
+2004-02-15,0.933,Jet Fuel
+2004-03-15,0.947,Jet Fuel
+2004-04-15,0.973,Jet Fuel
+2004-05-15,1.092,Jet Fuel
+2004-06-15,1.032,Jet Fuel
+2004-07-15,1.145,Jet Fuel
+2004-08-15,1.227,Jet Fuel
+2004-09-15,1.362,Jet Fuel
+2004-10-15,1.52,Jet Fuel
+2004-11-15,1.347,Jet Fuel
+2004-12-15,1.223,Jet Fuel
+2005-01-15,1.334,Jet Fuel
+2005-02-15,1.334,Jet Fuel
+2005-03-15,1.562,Jet Fuel
+2005-04-15,1.573,Jet Fuel
+2005-05-15,1.471,Jet Fuel
+2005-06-15,1.654,Jet Fuel
+2005-07-15,1.665,Jet Fuel
+2005-08-15,1.874,Jet Fuel
+2005-09-15,2.232,Jet Fuel
+2005-10-15,2.398,Jet Fuel
+2005-11-15,1.698,Jet Fuel
+2005-12-15,1.727,Jet Fuel
+2006-01-15,1.816,Jet Fuel
+2006-02-15,1.754,Jet Fuel
+2006-03-15,1.875,Jet Fuel
+2006-04-15,2.074,Jet Fuel
+2006-05-15,2.07,Jet Fuel
+2006-06-15,2.081,Jet Fuel
+2006-07-15,2.154,Jet Fuel
+2006-08-15,2.133,Jet Fuel
+2006-09-15,1.81,Jet Fuel
+2006-10-15,1.739,Jet Fuel
+2006-11-15,1.733,Jet Fuel
+2006-12-15,1.81,Jet Fuel
+2007-01-15,1.654,Jet Fuel
+2007-02-15,1.74,Jet Fuel
+2007-03-15,1.846,Jet Fuel
+2007-04-15,2.036,Jet Fuel
+2007-05-15,2.044,Jet Fuel
+2007-06-15,2.099,Jet Fuel
+2007-07-15,2.137,Jet Fuel
+2007-08-15,2.092,Jet Fuel
+2007-09-15,2.265,Jet Fuel
+2007-10-15,2.372,Jet Fuel
+2007-11-15,2.673,Jet Fuel
+2007-12-15,2.601,Jet Fuel
+2008-01-15,2.605,Jet Fuel
+2008-02-15,2.728,Jet Fuel
+2008-03-15,3.124,Jet Fuel
+2008-04-15,3.365,Jet Fuel
+2008-05-15,3.738,Jet Fuel
+2008-06-15,3.878,Jet Fuel
+2008-07-15,3.886,Jet Fuel
+2008-08-15,3.271,Jet Fuel
+2008-09-15,3.375,Jet Fuel
+2008-10-15,2.315,Jet Fuel
+2008-11-15,1.88,Jet Fuel
+2008-12-15,1.375,Jet Fuel
+2009-01-15,1.469,Jet Fuel
+2009-02-15,1.259,Jet Fuel
+2009-03-15,1.268,Jet Fuel
+2009-04-15,1.369,Jet Fuel
+2009-05-15,1.488,Jet Fuel
+2009-06-15,1.805,Jet Fuel
+2009-07-15,1.712,Jet Fuel
+2009-08-15,1.885,Jet Fuel
+2009-09-15,1.749,Jet Fuel
+2009-10-15,1.942,Jet Fuel
+2009-11-15,1.986,Jet Fuel
+2009-12-15,1.979,Jet Fuel
+2010-01-15,2.052,Jet Fuel
+2010-02-15,1.989,Jet Fuel
+2010-03-15,2.108,Jet Fuel
+2010-04-15,2.243,Jet Fuel
+2010-05-15,2.063,Jet Fuel
+2010-06-15,2.058,Jet Fuel
+2010-07-15,2.019,Jet Fuel
+2010-08-15,2.083,Jet Fuel
+2010-09-15,2.114,Jet Fuel
+2010-10-15,2.248,Jet Fuel
+2010-11-15,2.323,Jet Fuel
+2010-12-15,2.453,Jet Fuel
+2011-01-15,2.619,Jet Fuel
+2011-02-15,2.839,Jet Fuel
+2011-03-15,3.125,Jet Fuel
+2011-04-15,3.267,Jet Fuel
+2011-05-15,3.085,Jet Fuel
+2011-06-15,3.046,Jet Fuel
+2011-07-15,3.131,Jet Fuel
+2011-08-15,3.008,Jet Fuel
+2011-09-15,2.948,Jet Fuel
+2011-10-15,2.966,Jet Fuel
+2011-11-15,3.046,Jet Fuel
+2011-12-15,2.873,Jet Fuel
+2012-01-15,3.087,Jet Fuel
+2012-02-15,3.207,Jet Fuel
+2012-03-15,3.256,Jet Fuel
+2012-04-15,3.226,Jet Fuel
+2012-05-15,2.974,Jet Fuel
+2012-06-15,2.678,Jet Fuel
+2012-07-15,2.892,Jet Fuel
+2012-08-15,3.156,Jet Fuel
+2012-09-15,3.191,Jet Fuel
+2012-10-15,3.111,Jet Fuel
+2012-11-15,2.96,Jet Fuel
+2012-12-15,2.94,Jet Fuel
+2013-01-15,3.091,Jet Fuel
+2013-02-15,3.218,Jet Fuel
+2013-03-15,2.969,Jet Fuel
+2013-04-15,2.808,Jet Fuel
+2013-05-15,2.725,Jet Fuel
+2013-06-15,2.769,Jet Fuel
+2013-07-15,2.894,Jet Fuel
+2013-08-15,3.003,Jet Fuel
+2013-09-15,2.934,Jet Fuel
+2013-10-15,2.885,Jet Fuel
+2013-11-15,2.83,Jet Fuel
+2013-12-15,2.955,Jet Fuel
+2014-01-15,2.921,Jet Fuel
+2014-02-15,2.965,Jet Fuel
+2014-03-15,2.89,Jet Fuel
+2014-04-15,2.888,Jet Fuel
+2014-05-15,2.868,Jet Fuel
+2014-06-15,2.883,Jet Fuel
+2014-07-15,2.817,Jet Fuel
+2014-08-15,2.839,Jet Fuel
+2014-09-15,2.729,Jet Fuel
+2014-10-15,2.46,Jet Fuel
+2014-11-15,2.297,Jet Fuel
+2014-12-15,1.801,Jet Fuel
+2015-01-15,1.496,Jet Fuel
+2015-02-15,1.766,Jet Fuel
+2015-03-15,1.629,Jet Fuel
+2015-04-15,1.702,Jet Fuel
+2015-05-15,1.849,Jet Fuel
+2015-06-15,1.732,Jet Fuel
+2015-07-15,1.549,Jet Fuel
+2015-08-15,1.389,Jet Fuel
+2015-09-15,1.395,Jet Fuel
+2015-10-15,1.391,Jet Fuel
+2015-11-15,1.326,Jet Fuel
+2015-12-15,1.082,Jet Fuel
+2016-01-15,0.93,Jet Fuel
+2016-02-15,0.973,Jet Fuel
+2016-03-15,1.069,Jet Fuel
+2016-04-15,1.147,Jet Fuel
+2016-05-15,1.299,Jet Fuel
+2016-06-15,1.382,Jet Fuel
+2016-07-15,1.272,Jet Fuel
+2016-08-15,1.295,Jet Fuel
+2016-09-15,1.319,Jet Fuel
+2016-10-15,1.457,Jet Fuel
+2016-11-15,1.356,Jet Fuel
+2016-12-15,1.491,Jet Fuel
+2017-01-15,1.514,Jet Fuel
+2017-02-15,1.547,Jet Fuel
+2017-03-15,1.445,Jet Fuel
+2017-04-15,1.51,Jet Fuel
+2017-05-15,1.412,Jet Fuel
+2017-06-15,1.295,Jet Fuel
+2017-07-15,1.417,Jet Fuel
+2017-08-15,1.561,Jet Fuel
+2017-09-15,1.8,Jet Fuel
+2017-10-15,1.659,Jet Fuel
+2017-11-15,1.76,Jet Fuel
+2017-12-15,1.817,Jet Fuel
+2018-01-15,1.952,Jet Fuel
+2018-02-15,1.849,Jet Fuel
+2018-03-15,1.858,Jet Fuel
+2018-04-15,2.015,Jet Fuel
+2018-05-15,2.155,Jet Fuel
+2018-06-15,2.09,Jet Fuel
+2018-07-15,2.098,Jet Fuel
+2018-08-15,2.118,Jet Fuel
+2018-09-15,2.189,Jet Fuel
+2018-10-15,2.249,Jet Fuel
+2018-11-15,1.945,Jet Fuel
+2018-12-15,1.696,Jet Fuel
+2019-01-15,1.784,Jet Fuel
+2019-02-15,1.914,Jet Fuel
+2019-03-15,1.902,Jet Fuel
+2019-04-15,1.977,Jet Fuel
+2019-05-15,1.972,Jet Fuel
+2019-06-15,1.817,Jet Fuel
+2019-07-15,1.913,Jet Fuel
+2019-08-15,1.8,Jet Fuel
+2019-09-15,1.874,Jet Fuel
+2019-10-15,1.861,Jet Fuel
+2019-11-15,1.824,Jet Fuel
+2019-12-15,1.893,Jet Fuel
+2020-01-15,1.77,Jet Fuel
+2020-02-15,1.509,Jet Fuel
+2020-03-15,0.953,Jet Fuel
+2020-04-15,0.606,Jet Fuel
+2020-05-15,0.686,Jet Fuel
+2020-06-15,0.983,Jet Fuel
+2020-07-15,1.084,Jet Fuel
+2020-08-15,1.112,Jet Fuel
+2020-09-15,1.006,Jet Fuel
+2020-10-15,1.047,Jet Fuel
+2020-11-15,1.133,Jet Fuel
+2020-12-15,1.324,Jet Fuel
+2021-01-15,1.42,Jet Fuel
+2021-02-15,1.601,Jet Fuel
+2021-03-15,1.661,Jet Fuel
+2021-04-15,1.669,Jet Fuel
+2021-05-15,1.752,Jet Fuel
+2021-06-15,1.857,Jet Fuel
+2021-07-15,1.887,Jet Fuel
+2021-08-15,1.817,Jet Fuel
+2021-09-15,2.003,Jet Fuel
+2021-10-15,2.296,Jet Fuel
+2021-11-15,2.193,Jet Fuel
+2021-12-15,2.095,Jet Fuel
+2022-01-15,2.446,Jet Fuel
+2022-02-15,2.682,Jet Fuel
+2022-03-15,3.495,Jet Fuel
+2022-04-15,3.914,Jet Fuel
+2022-05-15,3.902,Jet Fuel
+2022-06-15,4.12,Jet Fuel
+2022-07-15,3.478,Jet Fuel
+2022-08-15,3.339,Jet Fuel
+2022-09-15,3.262,Jet Fuel
+2022-10-15,3.715,Jet Fuel
+2022-11-15,3.16,Jet Fuel
+2022-12-15,2.897,Jet Fuel
+2023-01-15,3.542,Jet Fuel
+2023-02-15,2.79,Jet Fuel
+2023-03-15,2.679,Jet Fuel
+2023-04-15,2.374,Jet Fuel
+2023-05-15,2.173,Jet Fuel
+2023-06-15,2.25,Jet Fuel
+2023-07-15,2.488,Jet Fuel
+2023-08-15,2.989,Jet Fuel
+2023-09-15,3.12,Jet Fuel
+2023-10-15,2.881,Jet Fuel
+2023-11-15,2.734,Jet Fuel
+2023-12-15,2.387,Jet Fuel
+2024-01-15,2.585,Jet Fuel
+2024-02-15,2.683,Jet Fuel
+2024-03-15,2.593,Jet Fuel
+2024-04-15,2.605,Jet Fuel
+2024-05-15,2.38,Jet Fuel
+2024-06-15,2.394,Jet Fuel
+2024-07-15,2.419,Jet Fuel
+2024-08-15,2.176,Jet Fuel
+2024-09-15,1.982,Jet Fuel
+2024-10-15,2.068,Jet Fuel
+2024-11-15,2.065,Jet Fuel
+2024-12-15,2.097,Jet Fuel
+2025-01-15,2.347,Jet Fuel
+2025-02-15,2.264,Jet Fuel
+2025-03-15,2.069,Jet Fuel
+2025-04-15,1.976,Jet Fuel
+2025-05-15,1.928,Jet Fuel
+2025-06-15,2.094,Jet Fuel
+1992-07-15,0.342,Propane
+1992-08-15,0.354,Propane
+1992-09-15,0.375,Propane
+1992-10-15,0.354,Propane
+1992-11-15,0.327,Propane
+1992-12-15,0.312,Propane
+1993-01-15,0.337,Propane
+1993-02-15,0.33,Propane
+1993-03-15,0.342,Propane
+1993-04-15,0.344,Propane
+1993-05-15,0.328,Propane
+1993-06-15,0.328,Propane
+1993-07-15,0.314,Propane
+1993-08-15,0.305,Propane
+1993-09-15,0.299,Propane
+1993-10-15,0.293,Propane
+1993-11-15,0.275,Propane
+1993-12-15,0.245,Propane
+1994-01-15,0.263,Propane
+1994-02-15,0.29,Propane
+1994-03-15,0.284,Propane
+1994-04-15,0.289,Propane
+1994-05-15,0.296,Propane
+1994-06-15,0.288,Propane
+1994-07-15,0.292,Propane
+1994-08-15,0.3,Propane
+1994-09-15,0.299,Propane
+1994-10-15,0.324,Propane
+1994-11-15,0.344,Propane
+1994-12-15,0.333,Propane
+1995-01-15,0.327,Propane
+1995-02-15,0.316,Propane
+1995-03-15,0.327,Propane
+1995-04-15,0.323,Propane
+1995-05-15,0.327,Propane
+1995-06-15,0.318,Propane
+1995-07-15,0.308,Propane
+1995-08-15,0.313,Propane
+1995-09-15,0.313,Propane
+1995-10-15,0.309,Propane
+1995-11-15,0.31,Propane
+1995-12-15,0.354,Propane
+1996-01-15,0.354,Propane
+1996-02-15,0.39,Propane
+1996-03-15,0.369,Propane
+1996-04-15,0.356,Propane
+1996-05-15,0.348,Propane
+1996-06-15,0.348,Propane
+1996-07-15,0.356,Propane
+1996-08-15,0.384,Propane
+1996-09-15,0.47,Propane
+1996-10-15,0.513,Propane
+1996-11-15,0.583,Propane
+1996-12-15,0.608,Propane
+1997-01-15,0.474,Propane
+1997-02-15,0.386,Propane
+1997-03-15,0.385,Propane
+1997-04-15,0.349,Propane
+1997-05-15,0.353,Propane
+1997-06-15,0.344,Propane
+1997-07-15,0.348,Propane
+1997-08-15,0.369,Propane
+1997-09-15,0.387,Propane
+1997-10-15,0.398,Propane
+1997-11-15,0.36,Propane
+1997-12-15,0.336,Propane
+1998-01-15,0.302,Propane
+1998-02-15,0.298,Propane
+1998-03-15,0.275,Propane
+1998-04-15,0.291,Propane
+1998-05-15,0.274,Propane
+1998-06-15,0.245,Propane
+1998-07-15,0.246,Propane
+1998-08-15,0.241,Propane
+1998-09-15,0.249,Propane
+1998-10-15,0.257,Propane
+1998-11-15,0.248,Propane
+1998-12-15,0.209,Propane
+1999-01-15,0.217,Propane
+1999-02-15,0.224,Propane
+1999-03-15,0.242,Propane
+1999-04-15,0.282,Propane
+1999-05-15,0.283,Propane
+1999-06-15,0.309,Propane
+1999-07-15,0.372,Propane
+1999-08-15,0.406,Propane
+1999-09-15,0.432,Propane
+1999-10-15,0.454,Propane
+1999-11-15,0.436,Propane
+1999-12-15,0.428,Propane
+2000-01-15,0.555,Propane
+2000-02-15,0.596,Propane
+2000-03-15,0.512,Propane
+2000-04-15,0.469,Propane
+2000-05-15,0.512,Propane
+2000-06-15,0.555,Propane
+2000-07-15,0.551,Propane
+2000-08-15,0.583,Propane
+2000-09-15,0.643,Propane
+2000-10-15,0.62,Propane
+2000-11-15,0.608,Propane
+2000-12-15,0.775,Propane
+2001-01-15,0.774,Propane
+2001-02-15,0.593,Propane
+2001-03-15,0.558,Propane
+2001-04-15,0.547,Propane
+2001-05-15,0.513,Propane
+2001-06-15,0.431,Propane
+2001-07-15,0.39,Propane
+2001-08-15,0.415,Propane
+2001-09-15,0.421,Propane
+2001-10-15,0.395,Propane
+2001-11-15,0.331,Propane
+2001-12-15,0.301,Propane
+2002-01-15,0.291,Propane
+2002-02-15,0.313,Propane
+2002-03-15,0.38,Propane
+2002-04-15,0.415,Propane
+2002-05-15,0.406,Propane
+2002-06-15,0.375,Propane
+2002-07-15,0.372,Propane
+2002-08-15,0.415,Propane
+2002-09-15,0.471,Propane
+2002-10-15,0.479,Propane
+2002-11-15,0.472,Propane
+2002-12-15,0.523,Propane
+2003-01-15,0.606,Propane
+2003-02-15,0.775,Propane
+2003-03-15,0.623,Propane
+2003-04-15,0.504,Propane
+2003-05-15,0.541,Propane
+2003-06-15,0.559,Propane
+2003-07-15,0.53,Propane
+2003-08-15,0.548,Propane
+2003-09-15,0.519,Propane
+2003-10-15,0.553,Propane
+2003-11-15,0.547,Propane
+2003-12-15,0.628,Propane
+2004-01-15,0.745,Propane
+2004-02-15,0.704,Propane
+2004-03-15,0.585,Propane
+2004-04-15,0.607,Propane
+2004-05-15,0.677,Propane
+2004-06-15,0.67,Propane
+2004-07-15,0.741,Propane
+2004-08-15,0.837,Propane
+2004-09-15,0.802,Propane
+2004-10-15,0.906,Propane
+2004-11-15,0.863,Propane
+2004-12-15,0.774,Propane
+2005-01-15,0.737,Propane
+2005-02-15,0.758,Propane
+2005-03-15,0.878,Propane
+2005-04-15,0.854,Propane
+2005-05-15,0.797,Propane
+2005-06-15,0.818,Propane
+2005-07-15,0.845,Propane
+2005-08-15,0.941,Propane
+2005-09-15,1.13,Propane
+2005-10-15,1.137,Propane
+2005-11-15,0.999,Propane
+2005-12-15,1.056,Propane
+2006-01-15,0.989,Propane
+2006-02-15,0.919,Propane
+2006-03-15,0.926,Propane
+2006-04-15,1.016,Propane
+2006-05-15,1.041,Propane
+2006-06-15,1.097,Propane
+2006-07-15,1.165,Propane
+2006-08-15,1.138,Propane
+2006-09-15,1.012,Propane
+2006-10-15,0.938,Propane
+2006-11-15,0.954,Propane
+2006-12-15,0.966,Propane
+2007-01-15,0.893,Propane
+2007-02-15,0.975,Propane
+2007-03-15,1.037,Propane
+2007-04-15,1.108,Propane
+2007-05-15,1.149,Propane
+2007-06-15,1.139,Propane
+2007-07-15,1.19,Propane
+2007-08-15,1.186,Propane
+2007-09-15,1.295,Propane
+2007-10-15,1.432,Propane
+2007-11-15,1.556,Propane
+2007-12-15,1.529,Propane
+2008-01-15,1.506,Propane
+2008-02-15,1.425,Propane
+2008-03-15,1.475,Propane
+2008-04-15,1.59,Propane
+2008-05-15,1.7,Propane
+2008-06-15,1.813,Propane
+2008-07-15,1.862,Propane
+2008-08-15,1.651,Propane
+2008-09-15,1.53,Propane
+2008-10-15,1.045,Propane
+2008-11-15,0.738,Propane
+2008-12-15,0.61,Propane
+2009-01-15,0.727,Propane
+2009-02-15,0.659,Propane
+2009-03-15,0.653,Propane
+2009-04-15,0.638,Propane
+2009-05-15,0.701,Propane
+2009-06-15,0.846,Propane
+2009-07-15,0.752,Propane
+2009-08-15,0.906,Propane
+2009-09-15,0.946,Propane
+2009-10-15,1.008,Propane
+2009-11-15,1.076,Propane
+2009-12-15,1.19,Propane
+2010-01-15,1.312,Propane
+2010-02-15,1.284,Propane
+2010-03-15,1.136,Propane
+2010-04-15,1.137,Propane
+2010-05-15,1.082,Propane
+2010-06-15,1.037,Propane
+2010-07-15,1.01,Propane
+2010-08-15,1.072,Propane
+2010-09-15,1.132,Propane
+2010-10-15,1.234,Propane
+2010-11-15,1.254,Propane
+2010-12-15,1.296,Propane
+2011-01-15,1.348,Propane
+2011-02-15,1.379,Propane
+2011-03-15,1.397,Propane
+2011-04-15,1.454,Propane
+2011-05-15,1.521,Propane
+2011-06-15,1.52,Propane
+2011-07-15,1.528,Propane
+2011-08-15,1.528,Propane
+2011-09-15,1.56,Propane
+2011-10-15,1.472,Propane
+2011-11-15,1.458,Propane
+2011-12-15,1.395,Propane
+2012-01-15,1.294,Propane
+2012-02-15,1.22,Propane
+2012-03-15,1.261,Propane
+2012-04-15,1.196,Propane
+2012-05-15,0.954,Propane
+2012-06-15,0.788,Propane
+2012-07-15,0.874,Propane
+2012-08-15,0.901,Propane
+2012-09-15,0.91,Propane
+2012-10-15,0.962,Propane
+2012-11-15,0.89,Propane
+2012-12-15,0.797,Propane
+2013-01-15,0.838,Propane
+2013-02-15,0.862,Propane
+2013-03-15,0.895,Propane
+2013-04-15,0.939,Propane
+2013-05-15,0.932,Propane
+2013-06-15,0.863,Propane
+2013-07-15,0.92,Propane
+2013-08-15,1.061,Propane
+2013-09-15,1.107,Propane
+2013-10-15,1.136,Propane
+2013-11-15,1.181,Propane
+2013-12-15,1.275,Propane
+2014-01-15,1.395,Propane
+2014-02-15,1.443,Propane
+2014-03-15,1.064,Propane
+2014-04-15,1.101,Propane
+2014-05-15,1.043,Propane
+2014-06-15,1.046,Propane
+2014-07-15,1.036,Propane
+2014-08-15,1.018,Propane
+2014-09-15,1.062,Propane
+2014-10-15,0.936,Propane
+2014-11-15,0.802,Propane
+2014-12-15,0.558,Propane
+2015-01-15,0.478,Propane
+2015-02-15,0.573,Propane
+2015-03-15,0.542,Propane
+2015-04-15,0.548,Propane
+2015-05-15,0.47,Propane
+2015-06-15,0.369,Propane
+2015-07-15,0.409,Propane
+2015-08-15,0.374,Propane
+2015-09-15,0.453,Propane
+2015-10-15,0.451,Propane
+2015-11-15,0.43,Propane
+2015-12-15,0.387,Propane
+2016-01-15,0.336,Propane
+2016-02-15,0.375,Propane
+2016-03-15,0.452,Propane
+2016-04-15,0.457,Propane
+2016-05-15,0.516,Propane
+2016-06-15,0.507,Propane
+2016-07-15,0.478,Propane
+2016-08-15,0.449,Propane
+2016-09-15,0.495,Propane
+2016-10-15,0.573,Propane
+2016-11-15,0.538,Propane
+2016-12-15,0.637,Propane
+2017-01-15,0.747,Propane
+2017-02-15,0.768,Propane
+2017-03-15,0.615,Propane
+2017-04-15,0.651,Propane
+2017-05-15,0.64,Propane
+2017-06-15,0.59,Propane
+2017-07-15,0.647,Propane
+2017-08-15,0.758,Propane
+2017-09-15,0.883,Propane
+2017-10-15,0.934,Propane
+2017-11-15,0.98,Propane
+2017-12-15,0.957,Propane
+2018-01-15,0.904,Propane
+2018-02-15,0.827,Propane
+2018-03-15,0.788,Propane
+2018-04-15,0.821,Propane
+2018-05-15,0.917,Propane
+2018-06-15,0.88,Propane
+2018-07-15,0.938,Propane
+2018-08-15,0.974,Propane
+2018-09-15,1.057,Propane
+2018-10-15,0.959,Propane
+2018-11-15,0.745,Propane
+2018-12-15,0.677,Propane
+2019-01-15,0.665,Propane
+2019-02-15,0.673,Propane
+2019-03-15,0.67,Propane
+2019-04-15,0.642,Propane
+2019-05-15,0.577,Propane
+2019-06-15,0.449,Propane
+2019-07-15,0.487,Propane
+2019-08-15,0.405,Propane
+2019-09-15,0.448,Propane
+2019-10-15,0.466,Propane
+2019-11-15,0.533,Propane
+2019-12-15,0.496,Propane
+2020-01-15,0.43,Propane
+2020-02-15,0.397,Propane
+2020-03-15,0.292,Propane
+2020-04-15,0.327,Propane
+2020-05-15,0.417,Propane
+2020-06-15,0.496,Propane
+2020-07-15,0.491,Propane
+2020-08-15,0.506,Propane
+2020-09-15,0.495,Propane
+2020-10-15,0.526,Propane
+2020-11-15,0.545,Propane
+2020-12-15,0.644,Propane
+2021-01-15,0.863,Propane
+2021-02-15,0.905,Propane
+2021-03-15,0.922,Propane
+2021-04-15,0.823,Propane
+2021-05-15,0.816,Propane
+2021-06-15,0.965,Propane
+2021-07-15,1.09,Propane
+2021-08-15,1.115,Propane
+2021-09-15,1.291,Propane
+2021-10-15,1.454,Propane
+2021-11-15,1.252,Propane
+2021-12-15,1.033,Propane
+2022-01-15,1.169,Propane
+2022-02-15,1.283,Propane
+2022-03-15,1.448,Propane
+2022-04-15,1.302,Propane
+2022-05-15,1.223,Propane
+2022-06-15,1.219,Propane
+2022-07-15,1.142,Propane
+2022-08-15,1.093,Propane
+2022-09-15,0.991,Propane
+2022-10-15,0.859,Propane
+2022-11-15,0.852,Propane
+2022-12-15,0.692,Propane
+2023-01-15,0.842,Propane
+2023-02-15,0.828,Propane
+2023-03-15,0.794,Propane
+2023-04-15,0.811,Propane
+2023-05-15,0.666,Propane
+2023-06-15,0.574,Propane
+2023-07-15,0.629,Propane
+2023-08-15,0.679,Propane
+2023-09-15,0.73,Propane
+2023-10-15,0.675,Propane
+2023-11-15,0.639,Propane
+2023-12-15,0.687,Propane
+2024-01-15,0.821,Propane
+2024-02-15,0.908,Propane
+2024-03-15,0.803,Propane
+2024-04-15,0.8,Propane
+2024-05-15,0.698,Propane
+2024-06-15,0.762,Propane
+2024-07-15,0.797,Propane
+2024-08-15,0.755,Propane
+2024-09-15,0.656,Propane
+2024-10-15,0.774,Propane
+2024-11-15,0.803,Propane
+2024-12-15,0.773,Propane
+2025-01-15,0.901,Propane
+2025-02-15,0.925,Propane
+2025-03-15,0.87,Propane
+2025-04-15,0.846,Propane
+2025-05-15,0.746,Propane
+2025-06-15,0.756,Propane
